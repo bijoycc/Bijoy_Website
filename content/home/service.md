@@ -28,7 +28,7 @@ list_format = 2
 <div align="justify">
     <div>
       <ol>
-        <li>Associate Editor: IEEE Access Journal (From 2019 to Till-date) </li>
+        <li>Associate Editor: IEEE Access Journal (From Dec 2018 to Till-date) </li>
 		
         <li>TPC Member: IEEE RNDM 2015 - 2018, IEEE HPSR 2016 (Social Media Chairs), 2017, and 2019, IEEE ICC 2017 - 2019, and IEEE GLOBECOM 2018 - 2019 </li>
      
