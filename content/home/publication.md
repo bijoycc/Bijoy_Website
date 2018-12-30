@@ -43,33 +43,25 @@ publication_type = "-1"
  </div> 
  <div align="justify"> 
 	<h3>Journals:</h3>
-	<div align="center"><u>Papers in IEEE Journals:</u></div>
 	<ol start="1">
-	  <li>Zhao, J., Bao, B., <u>Chatterjee, B.C.</u>, Oki, E., Hu, J., and Ren, D., “Dispersion based Highest-Modulation-First Last-Fit Spectrum Allocation Scheme for Elastic Optical Networks,” <em>IEEE  Access</em>, vol. 6, pp. 59907-59916, 2018,  IF: 3.244.</li>
-      <li><u>Chatterjee, B.C.</u>, BA, S.,  and Oki, E., “Fragmentation Problems and Defragmentation Approaches in Elastic  Optical Networks: A Survey,” <em>IEEE  Communications Surveys and Tutorials,</em> vol. 20, no. 1, pp. 183-210, 2018, IF:  20.23.</li>
-      <li>Kawabata, A., <u>Chatterjee, B.C.</u>, Ba, S., and Oki, E.,  “Delay-Sensitive Distributed Processing Communication Scheme for Real-time  Applications at Multiple Locations,” <em>IEEE  Access</em>, vol. 5, no. 1, pp. 20235 – 20248, 2017, IF: 3.55.</li>
-      <li>BA, S., <u>Chatterjee, B.C.</u>, and Oki, E., “Defragmentation  Scheme Based on Exchanging Primary and Backup Paths in 1+1 Path Protected  Elastic Optical Networks,” <em>IEEE/ACM  Transactions on Networking</em>, vol. 25, no. 3, pp. 1717-1731, 2017, IF: 3.11.</li>
-      <li><u>Chatterjee, B.C.</u>, and  Oki, E., “Dispersion-Adaptive First-Last Fit Spectrum Allocation Scheme for  Elastic Optical Networks,” <em>IEEE  Communications Letters</em>, vol. 20, no. 4, pp. 696-699, 2016, IF: 2.72.</li>
-      <li>BA, S., <u>Chatterjee, B.C.</u>,  Okamoto, S., Yamanaka, N., Fumagalli, A., and Oki, E., “Route Partitioning  Scheme for Elastic Optical Networks with Hitless Defragmentation,” <em>IEEE/OSA Journal of Optical Communications  and Networking</em>, vol. 8, no. 6, pp. 356-370, 2016, IF: 2.74.</li>
-      <li><u>Chatterjee, B.C.</u>, Sarma,  N., and Oki, E., “Routing and Spectrum Allocation in Elastic Optical Networks:  A Tutorial,” <em>IEEE Communications Surveys  and Tutorials</em>, Vol. 17, no. 3, pp. 1776-1800, 2015, IF: 20.23.</li>
-      <li><u>Chatterjee, B.C.</u>, Sarma,  N. and Sahu, P.P., “Priority based Dispersion-Reduced Wavelength Assignment for  Optical Networks,” <em>IEEE/OSA Journal of  Lightwave Technology</em>, vol. 31, no. 2, pp. 257-263, 2013, IF: 3.65.</li>
-      <li><u>Chatterjee, B.C.</u>, Sarma, N. and Sahu, P.P., “Priority based Routing  and Wavelength Assignment with Traffic Grooming for Optical Networks,” <em>IEEE/OSA Journal of Optical Communications  and Networking</em>, vol. 4, no. 6, pp. 480-489, 2012, IF: 2.74.</li>
-    </ol>
-	<div align="center"><u>Papers in Elsevier Journals:</u></div>
-	<ol start="10">
-      <li><u>Chatterjee, B.C.</u>, Sato, T., and Oki, E., “Recent Research Progress on Spectrum Management Approaches in Software-Defined Elastic Optical Networks,” <em>Optical Switching and  Networking</em>, vol. 30, pp. 93-104, 2018, IF: 1.11.</li>
-	  <li>Pradhan, A.K., <u>Chatterjee, B.C.</u>, Oki, E., and De, T., “Knapsack  based Multicast Traffic Grooming for Optical Networks,” <em>Optical Switching and Networking</em>, vol. 27, pp. 40-49, 2018, IF: 1.11.</li>
-      <li><u>Chatterjee, B.C.</u>, Fadini,  W., and Oki, E., “Spectrum Allocation Scheme Based on First-Last-Exact Fit  Policy for Elastic Optical Networks,&quot; <em>Journal  of Network and Computer Applications</em>, vol. 68, June 2016, pp. 164172, 2016,  IF: 3.99.</li>
-      <li>Fadini, W., <u>Chatterjee, B.C.</u>,  and Oki, E., “A Subcarrier-Slot Partition Scheme with First-Last Fit Spectrum  Allocation for Elastic Optical Networks,&quot; <em>Computer Network</em>, vol. 91, pp. 700 - 711, 2015, IF: 2.52.</li>
-      <li><u>Chatterjee, B.C.</u>, Sarma,  N. and Sahu, P.P., “A QoS-aware Wavelength Assignment Scheme for Optical  Networks,&quot; <em>Optik - International  Journal for Light and Electron Optics</em>, Vol. 124, no. 20, pp. 4498-4501,  2013, IF: 1.19.</li>
-      <li><u>Chatterjee, B.C.</u>, Sarma,  N. and Sahu, P.P., “A Heuristic Priority based Wavelength Assignment Scheme for  Optical Networks,&quot; <em>Optik -  International Journal for Light and Electron Optics</em>, vol. 123, </span>no. 17, pp.  1505-1510, 2012, IF: 1.19.</li>
-    </ol>
-	<div align="center"><u>Papers in IET, Springer, and Taylor &amp; Francis Journals:</u></div>
-	<ol start="16">
-	<li><u>Chatterjee, B.C.</u>, Sato, T., and Oki, E., “Recent  Research Progress on Spectrum Management Approaches in Software-Defined Elastic  Optical Networks,” <em>Optical Switching and  Networking</em>, vol. 30, pp. 93-104, 2018, IF: 1.11.</li>
-      <li><u>Chatterjee, B.C.</u>,  Muktadir, A.H.A., and Oki, E., “Instantaneous Recovery Route Design Scheme  Using Multiple Coding-Aware Protection Scenarios,&quot; Telecommunication  Systems (Springer), vol. 64, no. 1, pp. 75-85, 2017, IF: 1.52.</li>
-      <li><u>Chatterjee, B.C.</u>,  Jayabal, Y., Yamanaka, N., Okamoto, S., Fumagalli, A., and Oki, E., “Span Power  Management Scheme for Rapid Lightpath Provisioning in Multi-Core Fiber  Networks,&quot; <em>IET Electronics Letters</em>,  vol. 51, no. 1, pp. 76-78, 2015, IF: 1.23.</li>
-      <li><u>Chatterjee,  B.C.</u>, Sarma, N. and Sahu, P.P., “Review and Performance Analysis on  Routing and Wavelength Assignment Approaches for Optical Networks,&quot; <em>IETE Technical Review (Taylor &amp; Francis)</em>,  vol. 30, no. 1, pp. 12-23, 2013, IF: 1.330.</li>
+	  <li>Zhao, J., Bao, B., <u>Chatterjee, B.C.</u>, Oki, E., Hu, J., and Ren, D., “Dispersion based Highest-Modulation-First Last-Fit Spectrum Allocation Scheme for Elastic Optical Networks,” <em>IEEE Access</em>, vol. 6, pp. 59907-59916, 2018, IF: 3.244. </li>
+      <li><u>Chatterjee, B.C.</u>, Sato, T., and Oki, E., “Recent Research Progress on Spectrum Management Approaches in Software-Defined Elastic Optical Networks,” <em>Optical Switching and Networking</em>, vol. 30, pp. 93-104, 2018, IF: 1.11. </li>
+      <li>Pradhan, A.K., <u>Chatterjee, B.C.</u>, Oki, E., and De, T., “Knapsack based Multicast Traffic Grooming for Optical Networks,” <em>Optical Switching and Networking</em>, vol. 27, pp. 40-49, 2018, IF: 1.11. </li>
+      <li><u>Chatterjee, B.C.</u>, BA, S., and Oki, E., “Fragmentation Problems and Defragmentation Approaches in Elastic Optical Networks: A Survey,” <em>IEEE Communications Surveys and Tutorials, </em> vol. 20, no. 1, pp. 183-210, 2018, IF:  20.23. </li>
+      <li>Kawabata, A., <u>Chatterjee, B.C.</u>, Ba, S., and Oki, E., “Delay-Sensitive Distributed Processing Communication Scheme for Real-time Applications at Multiple Locations,” <em>IEEE Access</em>, vol. 5, no. 1, pp. 20235 – 20248, 2017, IF: 3.55. </li>
+      <li>BA, S., <u>Chatterjee, B.C.</u>, and Oki, E., “Defragmentation Scheme Based on Exchanging Primary and Backup Paths in 1+1 Path Protected Elastic Optical Networks,” <em>IEEE/ACM Transactions on Networking</em>, vol. 25, no. 3, pp. 1717-1731, 2017, IF: 3.11. </li>
+      <li><u>Chatterjee, B.C.</u>, Muktadir, A.H.A., and Oki, E., “Instantaneous Recovery Route Design Scheme Using Multiple Coding-Aware Protection Scenarios, &quot; Telecommunication Systems (Springer), vol. 64, no. 1, pp. 75-85, 2017, IF: 1.52. </li>
+      <li><u>Chatterjee, B.C.</u>, and Oki, E., “Dispersion-Adaptive First-Last Fit Spectrum Allocation Scheme for Elastic Optical Networks,” <em>IEEE Communications Letters</em>, vol. 20, no. 4, pp. 696-699, 2016, IF: 2.72. </li>
+      <li>BA, S., <u>Chatterjee, B.C.</u>, Okamoto, S., Yamanaka, N., Fumagalli, A., and Oki, E., “Route Partitioning Scheme for Elastic Optical Networks with Hitless Defragmentation,” <em>IEEE/OSA Journal of Optical Communications and Networking</em>, vol. 8, no. 6, pp. 356-370, 2016, IF: 2.74. </li>
+      <li><u>Chatterjee, B.C.</u>, Fadini, W., and Oki, E., “Spectrum Allocation Scheme Based on First-Last-Exact Fit Policy for Elastic Optical Networks, &quot; <em>Journal of Network and Computer Applications</em>, vol. 68, June 2016, pp. 164172, 2016, IF: 3.99. </li>
+      <li><u>Chatterjee, B.C.</u>, Sarma, N., and Oki, E., “Routing and Spectrum Allocation in Elastic Optical Networks:  A Tutorial,” <em>IEEE Communications Surveys and Tutorials</em>, Vol. 17, no. 3, pp. 1776-1800, 2015, IF: 20.23. </li>
+      <li>Fadini, W., <u>Chatterjee, B.C.</u>, and Oki, E., “A Subcarrier-Slot Partition Scheme with First-Last Fit Spectrum Allocation for Elastic Optical Networks, &quot; <em>Computer Network</em>, vol. 91, pp. 700 - 711, 2015, IF: 2.52. </li>
+      <li><u>Chatterjee, B.C.</u>, Jayabal, Y., Yamanaka, N., Okamoto, S., Fumagalli, A., and Oki, E., “Span Power Management Scheme for Rapid Lightpath Provisioning in Multi-Core Fiber Networks, &quot; <em>IET Electronics Letters</em>, vol. 51, no. 1, pp. 76-78, 2015, IF: 1.23. </li>
+      <li><u>Chatterjee, B.C.</u>, Sarma, N. and Sahu, P.P., “Priority based Dispersion-Reduced Wavelength Assignment for Optical Networks,” <em>IEEE/OSA Journal of Lightwave Technology</em>, vol. 31, no. 2, pp. 257-263, 2013, IF: 3.65. </li>
+      <li><u>Chatterjee, B.C.</u>, Sarma, N. and Sahu, P.P., “Review and Performance Analysis on Routing and Wavelength Assignment Approaches for Optical Networks, &quot; <em>IETE Technical Review (Taylor &amp; Francis) </em>, vol. 30, no. 1, pp. 12-23, 2013, IF: 1.330. </li>
+      <li><u>Chatterjee, B.C.</u>, Sarma, N. and Sahu, P.P., “A QoS-aware Wavelength Assignment Scheme for Optical Networks, &quot; <em>Optik - International Journal for Light and Electron Optics</em>, Vol. 124, no. 20, pp. 4498-4501, 2013, IF: 1.19.</li>
+      <li><u>Chatterjee, B.C.</u>, Sarma, N. and Sahu, P.P., “Priority based Routing and Wavelength Assignment with Traffic Grooming for Optical Networks,” <em>IEEE/OSA Journal of Optical Communications and Networking</em>, vol. 4, no. 6, pp. 480-489, 2012, IF: 2.74. </li>
+      <li><u>Chatterjee, B.C.</u>, Sarma, N. and Sahu, P.P., “A Heuristic Priority based Wavelength Assignment Scheme for Optical Networks, &quot; <em>Optik -  International Journal for Light and Electron Optics</em>, vol. 123, </span>no. 17, pp.  1505-1510, 2012, IF: 1.19. </li>
     </ol>
 	</div>
 	<div align="justify"> 
