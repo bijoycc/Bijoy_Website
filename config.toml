@@ -65,14 +65,14 @@ enableGitInfo = false
 
   
   # Details for the Contact Widget
-  email = "bijoycc@ieee.org, bijoycc@sau.int"
+  email = "bijoycc[AT]ieee[DOT]org, bijoycc[AT]sau[DOT]int"
   address = "Room# 310, Akbar Bahwan, Chankyapuri, New Delhi - 110021, India"
   #office_hours = """
   #Monday 10:00 to 13:00\\
   #Wednesday 09:00 to 10:00\\
   #Otherwise email to book an appointment
   #"""
-  phone = "+91-11-24195-276 (O), +91-8383888914 (M)"
+  phone = "+91-11-24195-276 (O)"
   skype = "bijoy.chand.chatterjee"
   #telegram = ""
   #keybase = ""  # Your keybase.io username.
