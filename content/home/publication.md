@@ -44,6 +44,7 @@ publication_type = "-1"
  <div align="justify"> 
 	<h3>Journals:</h3>
 	<ol start="1">
+    <li><u>Chatterjee, B.C.</u>,  He, F., Oki, E., Fumagalli, A., and Yamanaka, N., “A Span Power Management Scheme for Rapid Lightpath Provisioning and Releasing in Multi-Core Fiber Networks,” <em>IEEE/ACM Transactions on Networking</em>, 2019, IF: 3.11. [to appear] </li>
 	  <li>Zhao, J., Bao, B., <u>Chatterjee, B.C.</u>, Oki, E., Hu, J., and Ren, D., “Dispersion based Highest-Modulation-First Last-Fit Spectrum Allocation Scheme for Elastic Optical Networks,” <em>IEEE Access</em>, vol. 6, pp. 59907-59916, 2018, IF: 3.244. </li>
       <li><u>Chatterjee, B.C.</u>, Sato, T., and Oki, E., “Recent Research Progress on Spectrum Management Approaches in Software-Defined Elastic Optical Networks,” <em>Optical Switching and Networking</em>, vol. 30, pp. 93-104, 2018, IF: 1.11. </li>
       <li>Matsuno, T., <u>Chatterjee, B.C.</u>, Kitsuwan, N., Oki, E., Veeraraghavan, M., Okamoto, S., and Yamanaka, N., “Designing a Hadoop System Based on Computational Resources and Network Delay for Wide Area Networks,” <em>Telecommunication Systems (Springer) </em>, 2018. </li>
