@@ -18,6 +18,7 @@ weight = 50
 <div align="justify">
 <ol>
 <ul>
+<li>IEEE Senior Member in Mar 2019.</li>
 <li>DST Inspire Faculty Award for the July 2016 Session.</li>
 <li>ERCIM Postdoctoral Research Fellowship by European Research Consortium for Informatics and Mathematics, in Dec 2016.</li>
 <li>UEC (The University of Electro - Communications, Tokyo, Japan) Postdoctoral Research Fellowship, Apr 2014 to Mar 2016. </li>
