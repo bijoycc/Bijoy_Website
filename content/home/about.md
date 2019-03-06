@@ -41,4 +41,4 @@ weight = 10
 
 <p align="justify"> He has authored over 40 journal/conference papers, and his research activities have been published in highly rated top-level journals in the area of networking and communication, including IEEE Communications Surveys and Tutorials, IEEE/ACM Transactions on Networking, IEEE/OSA Journal of Lightwave Technology, IEEE/OSA Journal of Optical Communications and Networking, IEEE Communications Letters, Computer Networks – Elsevier, IET Electronics Letters, etc. His research interests include optical networks, QoS-aware protocols, optimization, and routing.</p>
 
-<p align="justify"> Dr. Chatterjee is a professional member of IEEE and a Life Member of IETE. </p>
+<p align="justify"> Dr. Chatterjee is a senior member of IEEE and a Life Member of IETE. </p>
