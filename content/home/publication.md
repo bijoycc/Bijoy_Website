@@ -44,8 +44,8 @@ publication_type = "-1"
  <div align="justify"> 
 	<h3>Journals:</h3>
 	<ol start="1">
-    <li>Kishi, Y., Kitsuwan, N., Ito, H., <u>Chatterjee, B.C.</u>, and Oki, E., “Modulation-Adaptive Link-Disjoint Path Selection Model for 1+1 Protected Elastic Optical Networks,” <em>IEEE Access</em>, 2019, IF: 3.55. [to appear] </li>
-    <li>Kawabata, A., <u>Chatterjee, B.C.</u>,  and Oki, E., “Delay-Sensitive Distributed Processing Communication Scheme for Real-time Applications at Multiple Locations,” <em>IEEE Access</em>, 2019, IF: 3.55. [to appear] </li>
+    <li>Kishi, Y., Kitsuwan, N., Ito, H., <u>Chatterjee, B.C.</u>, and Oki, E., “Modulation-Adaptive Link-Disjoint Path Selection Model for 1+1 Protected Elastic Optical Networks,” <em>IEEE Access</em>, vol. 7, no. 1, pp. 25422-25437, 2019, IF: 3.55. </li>
+    <li>Kawabata, A., <u>Chatterjee, B.C.</u>,  and Oki, E., “Participating-Domain Segmentation Based Delay-Sensitive Distributed Server Selection Scheme,” <em>IEEE Access</em>, vol. 7, no. 1, pp. 20689– 20697, 2019, IF: 3.55. [to appear] </li>
     <li><u>Chatterjee, B.C.</u>,  He, F., Oki, E., Fumagalli, A., and Yamanaka, N., “A Span Power Management Scheme for Rapid Lightpath Provisioning and Releasing in Multi-Core Fiber Networks,” <em>IEEE/ACM Transactions on Networking</em>, 2019, IF: 3.11. [to appear] </li>
 	  <li>Zhao, J., Bao, B., <u>Chatterjee, B.C.</u>, Oki, E., Hu, J., and Ren, D., “Dispersion based Highest-Modulation-First Last-Fit Spectrum Allocation Scheme for Elastic Optical Networks,” <em>IEEE Access</em>, vol. 6, pp. 59907-59916, 2018, IF: 3.55. </li>
       <li><u>Chatterjee, B.C.</u>, Sato, T., and Oki, E., “Recent Research Progress on Spectrum Management Approaches in Software-Defined Elastic Optical Networks,” <em>Optical Switching and Networking</em>, vol. 30, pp. 93-104, 2018, IF: 1.11. </li>
