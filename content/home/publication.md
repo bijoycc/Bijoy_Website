@@ -99,7 +99,7 @@ publication_type = "-1"
 	<div align="justify">
 	<h3>Workshops and Technical Reports:</h3>
     <ol start="1">
-      <li>T., He, F., Sato, T., <u>Chatterjee, B.C.</u>, and Oki, E., “Defragmentation Based on Rerouting and Toggling Paths in 1+1 Path Protected Elastic Optical Networks,” <em>IEICE Technical Report</em>,<em> Photonic Network</em>, 2018.</li>
+      <li>Sawa, T., He, F., Sato, T., <u>Chatterjee, B.C.</u>, and Oki, E., “Defragmentation Based on Rerouting and Toggling Paths in 1+1 Path Protected Elastic Optical Networks,” <em>IEICE Technical Report</em>,<em> Photonic Network</em>, 2018.</li>
       <li>Fujun He, F., Sato, T., <u>Chatterjee, B.C.</u>, Kurimoto, T., Urushidani, S., and Oki, E., “Mix Integer Linear	Programming	Model	for Backup Resource Allocation in Cloud Provider,” <em> Photonic Network Workshop</em>, 25 Jul 2018, Kyoto University, Japan. [poster presentation]</li>
       <li><u>Chatterjee, B.C.</u> and  Yamanaka, N., “Some Thoughts on India and Japan,” <em>The Journal of the Institute of Electronics Information and  Communication Engineers</em>, vol. 101, no. 2, pp.184-187, 2018. </li>
       <li>Matsuno, T., <u>Chatterjee, B.C.</u>,  Okamoto, S., Oki, E., Veeraraghavan, M., and Yamanaka, N., “Task Allocation  Scheme for Hadoop in Campus Network Environment,” <em>Proc. of</em> <em>IEICE Society  Conference</em>, 8-11 Sep., 2015, Sendai, Japan, paper B-12-20.</li>
