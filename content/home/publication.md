@@ -73,6 +73,8 @@ publication_type = "-1"
 	<div align="justify"> 
 	<h3>Conferences:</h3>
 	<ol start="1">
+    <li>Sawa, T., He, F., Sato, T., <u>Chatterjee, B.C.</u>, and Oki, E., “Defragmentation Considering Link Congestion in Toggled 1+1 Path Protected Elastic Optical Networks,” <em>24th Optoelectronics and Communications Conference/ International Conference on Photonics in Switching and Computing (OECC/PSC 2019)</em>, 7-11 July, 2019, Fukuoka, Japan. [to appear] </li>
+<li> Oki, E., Sato, T., <u>Chatterjee, B.C.</u>, “Spectrum Fragmentation Management in Elastic Optical Networks,” <em>21th International Conference on Transparent Optical Networks (ICTON - 2018)</em>, 9-13 July 2019, Angers, France. [to appear] </li>    
       <li>Kawabata, A., <u>Chatterjee, B.C.</u>, and Oki, E., “Participating-Domain Segmentation Based Server Selection Scheme in Delay-Sensitive Distributed Communication Approach,” <em>Proc. of </em> <em>IEEE NFV-SDN</em>, 27-29 Nov 2018, Verona, Italy.</li>
       <li>Sawa, T., He, F., Sato, T., <u>Chatterjee, B.C.</u>, and Oki, E., “Defragmentation Using Reroutable Backup Paths in Toggled 1+1 Path Protected Elastic Optical Networks,” <em>Proc. of 24th</em> <em>IEEE</em> APCC, 12-14 Nov 2018, Ningbo, China.</li>
       <li><u>Chatterjee, B.C.</u>, Sarma,  N., Mitra, A., Srivastava, A., Stol, N., and Oki, E., “Performance of  Dispersion-Reduced Wavelength Assignment in Wavelength-Routed Optical Networks,” <em>Proc. of 20th ICTON</em>, 1-5 Jul 2018,  Bucharest, Romania, paper We.C3.5.</li>
