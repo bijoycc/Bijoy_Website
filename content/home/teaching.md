@@ -19,6 +19,8 @@ weight = 40
 <ul>
 <li>CS203: Computer Networks (Winter Semester)</li>
 <li>CSxxx: Network Programming (Winter Semester)</li>
+<li>CS101: Programming and Data Structures (Summer Semester)</li>
+<li>CSxxx: Optical Networks (Summer Semester)</li>
 </ul>
 </ol>
 
