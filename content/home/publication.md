@@ -73,6 +73,7 @@ publication_type = "-1"
 	<div align="justify"> 
 	<h3>Conferences:</h3>
 	<ol start="1">
+    <li>Mitra, A., <u>Chatterjee, B.C.</u>, Srivastava, A., and Lord, A., “What should be the margin of future optical transmission systems?,” <em>Proc. of </em> <em>SPIE OPTO</em>, 1-6 Feb, 2020, San Francisco, California, USA. [to appear </li>
     <li>Kawabata, A., <u>Chatterjee, B.C.</u>, and Oki, E., “Participating-Domain Segmentation Based Server Selection
 Scheme in Successive Participation Scenario,” <em>Proc. of </em> <em>IEEE GLOBECOM</em>, 9-13 Dec, 2019, Waikoloa, HI, USA. [to appear </li>
     <li>Sawa, T., He, F., Sato, T., <u>Chatterjee, B.C.</u>, and Oki, E., “Defragmentation Considering Link Congestion in Toggled 1+1 Path Protected Elastic Optical Networks,” <em>24th Optoelectronics and Communications Conference/ International Conference on Photonics in Switching and Computing (OECC/PSC 2019)</em>, 7-11 July, 2019, Fukuoka, Japan. </li>
