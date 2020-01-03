@@ -37,13 +37,14 @@ publication_type = "-1"
     <h3>Books and Book Chapters:</h3>
     <ol>
       <li>Book: <u>Chatterjee, B.C.</u>, Sarma,  N., Sahu, P.P. and Oki, E., “Routing and Wavelength Assignment for WDM-based  Optical Networks: Quality-of-Service and Fault Resilience”, Springer  International Publishing, Lecture Notes in Electrical Engineering, Volume 410,  2017; ISBN: 978-3-319-46202-8 (Print) 978-3-319-46203-5 (Online)</li>
-      <li>Book: <u>Chatterjee, B.C.</u> and Oki, E., Elastic Optical Networking Technologies: Fundamentals, Design,  Control, and Management. CRC Press, Taylor and Francis Group, Boca Raton,  U.S.A, 2018. [Proposal Accepted, Manuscript under preparation]</li>
+      <li>Book: <u>Chatterjee, B.C.</u> and Oki, E., Elastic Optical Networking Technologies: Fundamentals, Design,  Control, and Management. CRC Press, Taylor and Francis Group, Boca Raton,  U.S.A, 2018. [In Press]</li>
       <li>Book  Chapter: <u>Chatterjee, B.C.</u>,  Sarma, N. and Sahu, P.P., “A study on routing and wavelength assignment  approaches for optical networks,” in Information and Communication Technology  for Education, Healthcare and Rural Development, ISBN: 978-81-8487-205-7, In:  D. Goswami, S. Bhattacharya, F.A. Barbhuiya, and S. Chakraborty, Editors.  India: Narosa Publishing House; pp. 88-100, 2012.</li>
     </ol>
  </div> 
  <div align="justify"> 
 	<h3>Journals:</h3>
 	<ol start="1">
+    <li>Ahmed, T.,  Ferdousi, S., Tornatore, M., Mitra, A. <u>Chatterjee, B.C.</u>, and Mukherjee, B., “Dynamic Routing, Spectrum, and Modulation Format Allocation in Mixed-Grid Optical Networks,” <em>IEEE/OSA Journal of Optical Communications and Networking</em>, 2020, IF: 3.093. [to appear]</li>
    <li>Sawa, T., He, F., Sato, T., <u>Chatterjee, B.C.</u>, and Oki, E., “Defragmentation Using Reroutable Backup Paths in Toggled-based Quasi 1+1 Path Protected Elastic Optical Networks,” <em>IEICE Transactions on Communications</em>, 2019, IF: 0.580. [to appear]</li>
     <li>Zhao, J., Bao, B., Yang, H., Oki, E., and <u>Chatterjee, B.C.</u>, “Holding-Time- and Impairment-Aware Shared Spectrum Allocation in Mixed-Line-Rates Elastic Optical Networks,” <em>IEEE/OSA Journal of Optical Communications and Networking</em>, vol. 11, no. 6, pp. 322-332, 2019, IF: 3.093.</li>
     <li><u>Chatterjee, B.C.</u>,  He, F., Oki, E., Fumagalli, A., and Yamanaka, N., “A Span Power Management Scheme for Rapid Lightpath Provisioning and Releasing in Multi-Core Fiber Networks,” <em>IEEE/ACM Transactions on Networking</em>, vol. 27, no. 2, 734-747, 2019, IF: 3.597. </li>
