@@ -44,6 +44,7 @@ publication_type = "-1"
  <div align="justify"> 
 	<h3>Journals:</h3>
 	<ol start="1">
+    <li>Kawabata, A.,  <u>Chatterjee, B.C.</u>, and Oki, E., “Participating-Domain Segmentation Based Server Selection Scheme for Real-Time Interactive Communication,” <em>IEICE Transactions on Communications</em>, 2020, IF: 0.580. [to appear]</li>
     <li>Ahmed, T.,  Ferdousi, S., Tornatore, M., Mitra, A. <u>Chatterjee, B.C.</u>, and Mukherjee, B., “Dynamic Routing, Spectrum, and Modulation Format Allocation in Mixed-Grid Optical Networks,” <em>IEEE/OSA Journal of Optical Communications and Networking</em>, 2020, IF: 3.093. [to appear]</li>
    <li>Sawa, T., He, F., Sato, T., <u>Chatterjee, B.C.</u>, and Oki, E., “Defragmentation Using Reroutable Backup Paths in Toggled-based Quasi 1+1 Path Protected Elastic Optical Networks,” <em>IEICE Transactions on Communications</em>, 2019, IF: 0.580. [to appear]</li>
     <li>Zhao, J., Bao, B., Yang, H., Oki, E., and <u>Chatterjee, B.C.</u>, “Holding-Time- and Impairment-Aware Shared Spectrum Allocation in Mixed-Line-Rates Elastic Optical Networks,” <em>IEEE/OSA Journal of Optical Communications and Networking</em>, vol. 11, no. 6, pp. 322-332, 2019, IF: 3.093.</li>
