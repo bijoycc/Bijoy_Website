@@ -36,17 +36,18 @@ publication_type = "-1"
  <div align="justify">  
     <h3>Books and Book Chapters:</h3>
     <ol>
-      <li>Book: <u>Chatterjee, B.C.</u>, Sarma,  N., Sahu, P.P. and Oki, E., “Routing and Wavelength Assignment for WDM-based  Optical Networks: Quality-of-Service and Fault Resilience”, Springer  International Publishing, Lecture Notes in Electrical Engineering, Volume 410,  2017; ISBN: 978-3-319-46202-8 (Print) 978-3-319-46203-5 (Online)</li>
       <li>Book: <u>Chatterjee, B.C.</u> and Oki, E., Elastic Optical Networking Technologies: Fundamentals, Design,  Control, and Management. CRC Press, Taylor and Francis Group, Boca Raton,  U.S.A, 2020; ISBN-13: 978-1138611719, ISBN-10: 1138611719. [In Press]</li>
+      <li>Book: <u>Chatterjee, B.C.</u>, Sarma,  N., Sahu, P.P. and Oki, E., “Routing and Wavelength Assignment for WDM-based  Optical Networks: Quality-of-Service and Fault Resilience”, Springer  International Publishing, Lecture Notes in Electrical Engineering, Volume 410,  2017; ISBN: 978-3-319-46202-8 (Print) 978-3-319-46203-5 (Online)</li>      
       <li>Book  Chapter: <u>Chatterjee, B.C.</u>,  Sarma, N. and Sahu, P.P., “A study on routing and wavelength assignment  approaches for optical networks,” in Information and Communication Technology  for Education, Healthcare and Rural Development, ISBN: 978-81-8487-205-7, In:  D. Goswami, S. Bhattacharya, F.A. Barbhuiya, and S. Chakraborty, Editors.  India: Narosa Publishing House; pp. 88-100, 2012.</li>
     </ol>
  </div> 
  <div align="justify"> 
 	<h3>Journals:</h3>
 	<ol start="1">
-    <li>Kawabata, A.,  <u>Chatterjee, B.C.</u>, and Oki, E., “Participating-Domain Segmentation Based Server Selection Scheme for Real-Time Interactive Communication,” <em>IEICE Transactions on Communications</em>, 2020, IF: 0.580. [to appear]</li>
-    <li>Ahmed, T.,  Ferdousi, S., Tornatore, M., Mitra, A. <u>Chatterjee, B.C.</u>, and Mukherjee, B., “Dynamic Routing, Spectrum, and Modulation Format Allocation in Mixed-Grid Optical Networks,” <em>IEEE/OSA Journal of Optical Communications and Networking</em>, 2020, IF: 3.093. [to appear]</li>
-   <li>Sawa, T., He, F., Sato, T., <u>Chatterjee, B.C.</u>, and Oki, E., “Defragmentation Using Reroutable Backup Paths in Toggled-based Quasi 1+1 Path Protected Elastic Optical Networks,” <em>IEICE Transactions on Communications</em>, 2019, IF: 0.580. [to appear]</li>
+        <li>Datta Choudhury, P., Reddy, P.V.R., <u>Chatterjee, B.C.</u>, Oki, E., and De, T., “Performance of Routing and Spectrum Allocation Approaches for Multicast Traffic in Elastic Optical Networks,” <em>Optical Fiber Technology</em>, 2020, IF:  1.824. [to appear]</li>
+    <li>Kawabata, A.,  <u>Chatterjee, B.C.</u>, and Oki, E., “Participating-Domain Segmentation Based Server Selection Scheme for Real-Time Interactive Communication,” <em>IEICE Transactions on Communications</em>, vol. E104-B, no. 7, pp xx-xx, 2020, IF: 0.580. [to appear]</li>
+    <li>Ahmed, T.,  Ferdousi, S., Tornatore, M., Mitra, A. <u>Chatterjee, B.C.</u>, and Mukherjee, B., “Dynamic Routing, Spectrum, and Modulation Format Allocation in Mixed-Grid Optical Networks,” <em>IEEE/OSA Journal of Optical Communications and Networking</em>, vol. 12, no. 5, pp. 79-88, 2020, IF: 3.093. [to appear ]</li>
+   <li>Sawa, T., He, F., Sato, T., <u>Chatterjee, B.C.</u>, and Oki, E., “Defragmentation Using Reroutable Backup Paths in Toggled-based Quasi 1+1 Path Protected Elastic Optical Networks,” <em>IEICE Transactions on Communications</em>, vol. E103-B, no. 3, pp. 211-223, 2020, IF: 0.580.</li>
     <li>Zhao, J., Bao, B., Yang, H., Oki, E., and <u>Chatterjee, B.C.</u>, “Holding-Time- and Impairment-Aware Shared Spectrum Allocation in Mixed-Line-Rates Elastic Optical Networks,” <em>IEEE/OSA Journal of Optical Communications and Networking</em>, vol. 11, no. 6, pp. 322-332, 2019, IF: 3.093.</li>
     <li><u>Chatterjee, B.C.</u>,  He, F., Oki, E., Fumagalli, A., and Yamanaka, N., “A Span Power Management Scheme for Rapid Lightpath Provisioning and Releasing in Multi-Core Fiber Networks,” <em>IEEE/ACM Transactions on Networking</em>, vol. 27, no. 2, 734-747, 2019, IF: 3.597. </li>
     <li>Kishi, Y., Kitsuwan, N., Ito, H., <u>Chatterjee, B.C.</u>, and Oki, E., “Modulation-Adaptive Link-Disjoint Path Selection Model for 1+1 Protected Elastic Optical Networks,” <em>IEEE Access</em>, vol. 7, no. 1, pp. 25422-25437, 2019, IF: 4.098. </li>
@@ -75,9 +76,9 @@ publication_type = "-1"
 	<div align="justify"> 
 	<h3>Conferences:</h3>
 	<ol start="1">
-    <li>Mitra, A., <u>Chatterjee, B.C.</u>, Srivastava, A., and Lord, A., “What should be the margin of future optical transmission systems?,” <em>Proc. of </em> <em>SPIE OPTO</em>, 1-6 Feb, 2020, San Francisco, California, USA. [to appear] </li>
+    <li>Oki, E., Sawa, T., He, F., Sato, T., and <u>Chatterjee, B.C.</u>, “Performance of Hitless Defragmentation with Rerouting for Quasi 1+1 Protected Elastic Optical Networks,” <em>Proc. of 21th ICTON</em>, 19-23 July 2020, Bari, Italy [Invited paper]. [to appear] </li>
     <li>Kawabata, A., <u>Chatterjee, B.C.</u>, and Oki, E., “Participating-Domain Segmentation Based Server Selection
-Scheme in Successive Participation Scenario,” <em>Proc. of </em> <em>IEEE GLOBECOM</em>, 9-13 Dec, 2019, Waikoloa, HI, USA. [to appear]</li>
+Scheme in Successive Participation Scenario,” <em>Proc. of </em> <em>IEEE GLOBECOM</em>, 9-13 Dec, 2019, Waikoloa, HI, USA. </li>
     <li>Sawa, T., He, F., Sato, T., <u>Chatterjee, B.C.</u>, and Oki, E., “Defragmentation Considering Link Congestion in Toggled 1+1 Path Protected Elastic Optical Networks,” <em>24th Optoelectronics and Communications Conference/ International Conference on Photonics in Switching and Computing (OECC/PSC 2019)</em>, 7-11 July, 2019, Fukuoka, Japan. </li>
 <li> Oki, E., Sato, T., <u>Chatterjee, B.C.</u>, “Spectrum Fragmentation Management in Elastic Optical Networks,” <em>21th International Conference on Transparent Optical Networks (ICTON - 2018)</em>, 9-13 July 2019, Angers, France, paper Th.B3.1. </li>
     <li>Kawabata, A., <u>Chatterjee, B.C.</u>, and Oki, E., “Participating-Domain Segmentation Based Server Selection Scheme in Delay-Sensitive Distributed Communication Approach,” <em>Proc. of </em> <em>IEEE NFV-SDN</em>, 27-29 Nov 2018, Verona, Italy.</li>
