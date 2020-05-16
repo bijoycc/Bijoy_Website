@@ -36,7 +36,7 @@ publication_type = "-1"
  <div align="justify">  
     <h3>Books and Book Chapters:</h3>
     <ol>
-      <li>Book: <u>Chatterjee, B.C.</u> and Oki, E., Elastic Optical Networking Technologies: Fundamentals, Design,  Control, and Management. CRC Press, Taylor and Francis Group, Boca Raton,  U.S.A, 2020; ISBN-13: 978-1138611719, ISBN-10: 1138611719. [In Press]</li>
+      <li>Book: <u>Chatterjee, B.C.</u> and Oki, E., Elastic Optical Networking Technologies: Fundamentals, Design,  Control, and Management. CRC Press, Taylor and Francis Group, Boca Raton,  U.S.A, 2020; ISBN-13: 978-1138611719, ISBN-10: 1138611719. </li>
       <li>Book: <u>Chatterjee, B.C.</u>, Sarma,  N., Sahu, P.P. and Oki, E., “Routing and Wavelength Assignment for WDM-based  Optical Networks: Quality-of-Service and Fault Resilience”, Springer  International Publishing, Lecture Notes in Electrical Engineering, Volume 410,  2017; ISBN: 978-3-319-46202-8 (Print) 978-3-319-46203-5 (Online)</li>      
       <li>Book  Chapter: <u>Chatterjee, B.C.</u>,  Sarma, N. and Sahu, P.P., “A study on routing and wavelength assignment  approaches for optical networks,” in Information and Communication Technology  for Education, Healthcare and Rural Development, ISBN: 978-81-8487-205-7, In:  D. Goswami, S. Bhattacharya, F.A. Barbhuiya, and S. Chakraborty, Editors.  India: Narosa Publishing House; pp. 88-100, 2012.</li>
     </ol>
@@ -44,6 +44,7 @@ publication_type = "-1"
  <div align="justify"> 
 	<h3>Journals:</h3>
 	<ol start="1">
+    <li><u>Chatterjee, B.C.</u>, and Oki, E.,  “ Defragmentation based on route partitioning in 1+1 protected elastic optical networks,” <em>Computer Networks</em>, 2020, IF: 3.030. [to appear]</li>
         <li>Datta Choudhury, P., Reddy, P.V.R., <u>Chatterjee, B.C.</u>, Oki, E., and De, T., “Performance of Routing and Spectrum Allocation Approaches for Multicast Traffic in Elastic Optical Networks,” <em>Optical Fiber Technology</em>, 2020, IF:  1.824. [to appear]</li>
     <li>Kawabata, A.,  <u>Chatterjee, B.C.</u>, and Oki, E., “Participating-Domain Segmentation Based Server Selection Scheme for Real-Time Interactive Communication,” <em>IEICE Transactions on Communications</em>, vol. E104-B, no. 7, pp xx-xx, 2020, IF: 0.580. [to appear]</li>
     <li>Ahmed, T.,  Ferdousi, S., Tornatore, M., Mitra, A. <u>Chatterjee, B.C.</u>, and Mukherjee, B., “Dynamic Routing, Spectrum, and Modulation Format Allocation in Mixed-Grid Optical Networks,” <em>IEEE/OSA Journal of Optical Communications and Networking</em>, vol. 12, no. 5, pp. 79-88, 2020, IF: 3.093. [to appear ]</li>
