@@ -44,7 +44,7 @@ publication_type = "-1"
  <div align="justify"> 
 	<h3>Journals:</h3>
 	<ol start="1">
-    <li><u>Chatterjee, B.C.</u>, and Oki, E.,  “ Defragmentation based on route partitioning in 1+1 protected elastic optical networks,” <em>Computer Networks</em>, 2020, IF: 3.030. [to appear]</li>
+    <li><u>Chatterjee, B.C.</u>, and Oki, E.,  “Defragmentation based on route partitioning in 1+1 protected elastic optical networks,” <em>Computer Networks</em>, 2020, IF: 3.030. [to appear]</li>
         <li>Datta Choudhury, P., Reddy, P.V.R., <u>Chatterjee, B.C.</u>, Oki, E., and De, T., “Performance of Routing and Spectrum Allocation Approaches for Multicast Traffic in Elastic Optical Networks,” <em>Optical Fiber Technology</em>, 2020, IF:  1.824. [to appear]</li>
     <li>Kawabata, A.,  <u>Chatterjee, B.C.</u>, and Oki, E., “Participating-Domain Segmentation Based Server Selection Scheme for Real-Time Interactive Communication,” <em>IEICE Transactions on Communications</em>, vol. E104-B, no. 7, pp xx-xx, 2020, IF: 0.580. [to appear]</li>
     <li>Ahmed, T.,  Ferdousi, S., Tornatore, M., Mitra, A. <u>Chatterjee, B.C.</u>, and Mukherjee, B., “Dynamic Routing, Spectrum, and Modulation Format Allocation in Mixed-Grid Optical Networks,” <em>IEEE/OSA Journal of Optical Communications and Networking</em>, vol. 12, no. 5, pp. 79-88, 2020, IF: 3.093. [to appear ]</li>
