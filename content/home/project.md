@@ -52,7 +52,7 @@ filter_default = 0
 
 <div align="justify">
       <ol>
-        <li>Project Name: Spectrum defragmentation management in elastic optical networks using machine learning
+        <li>Spectrum defragmentation management in elastic optical networks using machine learning
           <ul>
             <li>Funding Agency: Indo-Japan collabative project, DST, (Kyoto University, Japan side)</li>
             <li>Duration: 2020 to 2022</li>
@@ -60,7 +60,7 @@ filter_default = 0
             <li>Role: PI</li>
             </ul>
         </li>
-        <li>Project Name: Designing multi-objective elastic optical networks for high-speed communication
+        <li>Designing multi-objective elastic optical networks for high-speed communication
           <ul>
             <li>Funding Agency: Dept. of Science and Technology, Govt. of India</li>
             <li>Duration: Apr 2017 to Mar 2022 (expected) </li>            
@@ -68,7 +68,7 @@ filter_default = 0
             <li>Role: PI</li>
             </ul>
         </li>
-        <li>Project Name: Designing routing and spectrum allocation schemes for elastic optical networks
+        <li>Designing routing and spectrum allocation schemes for elastic optical networks
           <ul>
             <li>Funding Agency: The University of Electro-Communications,  Japan </li>
             <li>Duration: May 2014 to Feb 2016 </li>
