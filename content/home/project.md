@@ -52,24 +52,31 @@ filter_default = 0
 
 <div align="justify">
       <ol>
-        <li>Designing multi-objective elastic optical networks for high-speed communication
+        <li>Project Name: Spectrum defragmentation management in elastic optical networks using machine learning
           <ul>
-            <li>Sponsoring Agency: Dept. of Science and Technology, Govt. of India</li>
-            <li>Total Outlay (in INR): 35,00,000</li>
-            <li>Principal Investigator: Bijoy Chand Chatterjee</li>
+            <li>Funding Agency: Indo-Japan collabative project, DST, (Kyoto University Japan side)</li>
+            <li>Date of starting: 2020</li>
+            <li>Date of completion: 2022 (expected)</li>
+            <li>Status of Project: Ongoing</li>
+            <li>Role: PI</li>
+            </ul>
+        </li>
+        <li>Project Name: Designing multi-objective elastic optical networks for high-speed communication
+          <ul>
+            <li>Funding Agency: Dept. of Science and Technology, Govt. of India</li>
             <li>Date of starting: Apr 2017</li>
             <li>Date of completion: Mar 2022 (expected)</li>
             <li>Status of Project: Ongoing</li>
+            <li>Role: PI</li>
             </ul>
         </li>
-        <li>Designing routing and spectrum allocation schemes for elastic optical networks
+        <li>Project Name: Designing routing and spectrum allocation schemes for elastic optical networks
           <ul>
-            <li>Sponsoring Agency: The University of Electro-Communications,  Japan </li>
-            <li>Total Outlay (in JPY): 9,60,000 </li>
-            <li>Principal Investigator: Bijoy Chand Chatterjee </li>
+            <li>Funding Agency: The University of Electro-Communications,  Japan </li>
             <li>Date of starting: May 2014 </li>
             <li>Date of completion: Feb 2016 </li>
             <li>Status of Project: Completed</li>
+            <li>Role: PI</li>
           </ul>
         </li>
         </ol>
