@@ -54,7 +54,7 @@ filter_default = 0
       <ol>
         <li>Spectrum defragmentation management in elastic optical networks using machine learning
           <ul>
-            <li>Funding Agency: Indo-Japan collabative project, DST, (Kyoto University, Japan side)</li>
+            <li>Funding Agency: Indo-Japan collaborative project, DST-JSPS, (Kyoto University, Japan side)</li>
             <li>Duration: 2020 to 2022</li>
             <li>Status of Project: Ongoing</li>
             <li>Role: PI</li>
