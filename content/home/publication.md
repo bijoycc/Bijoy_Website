@@ -43,10 +43,10 @@ publication_type = "-1"
  </div> 
  <div align="justify"> 
 	<h3>Journals:</h3>
-	<ol start="1">
-    <li>Kaur, R., Gupta, A., Srivastava, A., <u>Chatterjee,  B.C.</u>, Mitra, A., Ramamurthy, B., and Bohara V.A., “Resource Allocation and QoS Guarantees for Real World IP traffic in Integrated XG-PON and IEEE802.11e EDCA Networks,” <em>IEEE Access</em>, 2018, IF: 3.745. [to appear] </li>
+	<ol start="1"> 
     <li><u>Chatterjee, B.C.</u>, and Oki, E.,  “Defragmentation based on route partitioning in 1+1 protected elastic optical networks,” <em>Computer Networks</em>, 2020, IF: 3.111. [to appear]</li>
         <li>Datta Choudhury, P., Reddy, P.V.R., <u>Chatterjee, B.C.</u>, Oki, E., and De, T., “Performance of Routing and Spectrum Allocation Approaches for Multicast Traffic in Elastic Optical Networks,” <em>Optical Fiber Technology</em>, 2020, IF:  2.212. [to appear]</li>
+       <li>Kaur, R., Gupta, A., Srivastava, A., <u>Chatterjee,  B.C.</u>, Mitra, A., Ramamurthy, B., and Bohara V.A., “Resource Allocation and QoS Guarantees for Real World IP traffic in Integrated XG-PON and IEEE802.11e EDCA Networks,” <em>IEEE Access</em>, vol. 8, pp. 124883-124893,  2020, IF: 3.745. </li>
     <li>Kawabata, A.,  <u>Chatterjee, B.C.</u>, and Oki, E., “Participating-Domain Segmentation Based Server Selection Scheme for Real-Time Interactive Communication,” <em>IEICE Transactions on Communications</em>, vol. E104-B, no. 7, pp 736-747, 2020, IF: 0.614.</li>
     <li>Ahmed, T.,  Ferdousi, S., Tornatore, M., Mitra, A. <u>Chatterjee, B.C.</u>, and Mukherjee, B., “Dynamic Routing, Spectrum, and Modulation Format Allocation in Mixed-Grid Optical Networks,” <em>IEEE/OSA Journal of Optical Communications and Networking</em>, vol. 12, no. 5, pp. 79-88, 2020, IF: 3.425. [to appear ]</li>
    <li>Sawa, T., He, F., Sato, T., <u>Chatterjee, B.C.</u>, and Oki, E., “Defragmentation Using Reroutable Backup Paths in Toggled-based Quasi 1+1 Path Protected Elastic Optical Networks,” <em>IEICE Transactions on Communications</em>, vol. E103-B, no. 3, pp. 211-223, 2020, IF: 0.614.</li>
@@ -78,9 +78,9 @@ publication_type = "-1"
 	<div align="justify"> 
 	<h3>Conferences:</h3>
 	<ol start="1">
-    <li>Oki, E., Sawa, T., He, F., Sato, T., and <u>Chatterjee, B.C.</u>, “Performance of Hitless Defragmentation with Rerouting for Quasi 1+1 Protected Elastic Optical Networks,” <em>Proc. of 21th ICTON</em>, 19-23 July 2020, Bari, Italy [Invited paper]. [to appear] </li>
-    <li>Kawabata, A., <u>Chatterjee, B.C.</u>, and Oki, E., “Participating-Domain Segmentation Based Server Selection
-Scheme in Successive Participation Scenario,” <em>Proc. of </em> <em>IEEE GLOBECOM</em>, 9-13 Dec, 2019, Waikoloa, HI, USA. </li>
+    <li><u>Chatterjee, B.C.</u> and Oki, E., “Defragmentation for 1+1 protected elastic optical networks: A route partitioning approach,” <em>16th International Conference on IP + Optical Network (iPOP2020)</em>, 10-11 Sept 2020, Japan (Virtual Conference).</li>
+    <li>Oki, E., Sawa, T., He, F., Sato, T., and <u>Chatterjee, B.C.</u>, “Performance of Hitless Defragmentation with Rerouting for Quasi 1+1 Protected Elastic Optical Networks,” <em>Proc. of 21th ICTON</em>, 19-23 July 2020, Bari, Italy, paper Mo.D3.6. [Invited paper]. </li>
+    <li>Kawabata, A., <u>Chatterjee, B.C.</u>, and Oki, E., “Participating-Domain Segmentation Based Server Selection Scheme in Successive Participation Scenario,” <em>Proc. of </em> <em>IEEE GLOBECOM</em>, 9-13 Dec, 2019, Waikoloa, HI, USA. </li>
     <li>Sawa, T., He, F., Sato, T., <u>Chatterjee, B.C.</u>, and Oki, E., “Defragmentation Considering Link Congestion in Toggled 1+1 Path Protected Elastic Optical Networks,” <em>24th Optoelectronics and Communications Conference/ International Conference on Photonics in Switching and Computing (OECC/PSC 2019)</em>, 7-11 July, 2019, Fukuoka, Japan. </li>
 <li> Oki, E., Sato, T., <u>Chatterjee, B.C.</u>, “Spectrum Fragmentation Management in Elastic Optical Networks,” <em>21th International Conference on Transparent Optical Networks (ICTON - 2019)</em>, 9-13 July 2019, Angers, France, paper Th.B3.1. </li>
     <li>Kawabata, A., <u>Chatterjee, B.C.</u>, and Oki, E., “Participating-Domain Segmentation Based Server Selection Scheme in Delay-Sensitive Distributed Communication Approach,” <em>Proc. of </em> <em>IEEE NFV-SDN</em>, 27-29 Nov 2018, Verona, Italy.</li>
