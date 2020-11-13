@@ -78,6 +78,7 @@ publication_type = "-1"
 	<div align="justify"> 
 	<h3>Conferences:</h3>
 	<ol start="1">
+    <li><li>Kawabata, A., <u>Chatterjee, B.C.</u>, and Oki, E., “Optimal Server Selection Scheme with Optimistic Synchronization for Delay Sensitive Services,” <em>Proc. of IEEE CCNC</em>, 9-12 Jan 2021, USA (Virtual Conference).</li>
     <li><u>Chatterjee, B.C.</u> and Oki, E., “Defragmentation for 1+1 Protected Elastic Optical Networks: A Route Partitioning Approach,” <em>16th International Conference on IP + Optical Network (iPOP2020)</em>, 10-11 Sept 2020, Japan (Virtual Conference).</li>
     <li>Oki, E., Sawa, T., He, F., Sato, T., and <u>Chatterjee, B.C.</u>, “Performance of Hitless Defragmentation with Rerouting for Quasi 1+1 Protected Elastic Optical Networks,” <em>Proc. of 21th ICTON</em>, 19-23 July 2020, Bari, Italy, paper Mo.D3.6. [Invited paper]. </li>
     <li>Kawabata, A., <u>Chatterjee, B.C.</u>, and Oki, E., “Participating-Domain Segmentation Based Server Selection Scheme in Successive Participation Scenario,” <em>Proc. of </em> <em>IEEE GLOBECOM</em>, 9-13 Dec, 2019, Waikoloa, HI, USA. </li>
