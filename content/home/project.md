@@ -52,28 +52,35 @@ filter_default = 0
 
 <div align="justify">
       <ol>
+        <li>Development of secured and reliable spectrum allocation schemes for next-generation elastic optical networks
+          <ul>
+            <li>Funding Agency: Ministry of Electronics & IT (MeitY) R&D in CC&BT group</li>
+            <li>Implementing agency: Tezpur University, Assam, South Asian University, New delhi, and Dr. SPM International Institute of Information Technology, Naya Raipur</li>
+            <li>Duration: 2021 to 2023</li>
+            <li>Role: Chief Investigator</li>
+            </ul>
+        </li>
         <li>Spectrum defragmentation management in elastic optical networks using machine learning
           <ul>
-            <li>Funding Agency: Indo-Japan collaborative project, DST-JSPS, (Kyoto University, Japan side)</li>
+            <li>Funding Agency: Indo-Japan collaborative project, DST (India)-JSPS (Japan)</li>
+            <li>Implementing agency: South Asian University, New delhi, India and Kyoto University, Japan</li>
             <li>Duration: 2020 to 2022</li>
-            <li>Status of Project: Ongoing</li>
-            <li>Role: PI</li>
+            <li>Role: Principal Investigator</li>
             </ul>
         </li>
         <li>Designing multi-objective elastic optical networks for high-speed communication
           <ul>
             <li>Funding Agency: Dept. of Science and Technology, Govt. of India</li>
-            <li>Duration: Apr 2017 to Mar 2022 (expected) </li>            
-            <li>Status of Project: Ongoing</li>
-            <li>Role: PI</li>
+            <li>Duration: Apr 2017 to Mar 2023 </li>            
+            <li>Role: Principal Investigator</li>
             </ul>
         </li>
         <li>Designing routing and spectrum allocation schemes for elastic optical networks
           <ul>
-            <li>Funding Agency: The University of Electro-Communications,  Japan </li>
+            <li>Funding Agency: Ministry of Education, Culture, Sports, Science and Technology under The Program for Promoting the Enhancement of Research Universities, Japan. </li>
+            <li>Implementing agency: The University of Electro-Communications, Japan</li>
             <li>Duration: May 2014 to Feb 2016 </li>
-            <li>Status of Project: Completed</li>
-            <li>Role: PI</li>
+            <li>Role: Principal Investigator</li>
           </ul>
         </li>
         </ol>
