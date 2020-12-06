@@ -54,8 +54,8 @@ filter_default = 0
       <ol>
         <li>Development of secured and reliable spectrum allocation schemes for next-generation elastic optical networks
           <ul>
-            <li>Funding Agency: Ministry of Electronics & IT (MeitY) R&D in CC&BT group</li>
-            <li>Implementing agency: Tezpur University, Assam, South Asian University, New delhi, and Dr. SPM International Institute of Information Technology, Naya Raipur</li>
+            <li>Funding Agency: Ministry of Electronics & IT (MeitY), R&D in CC&BT group, Govt. of India</li>
+            <li>Implementing agency: Tezpur University, Assam, South Asian University, New Delhi, and Dr. SPM International Institute of Information Technology, Naya Raipur</li>
             <li>Duration: 2021 to 2023</li>
             <li>Role: Chief Investigator</li>
             </ul>
@@ -63,7 +63,7 @@ filter_default = 0
         <li>Spectrum defragmentation management in elastic optical networks using machine learning
           <ul>
             <li>Funding Agency: Indo-Japan collaborative project, DST (India)-JSPS (Japan)</li>
-            <li>Implementing agency: South Asian University, New delhi, India and Kyoto University, Japan</li>
+            <li>Implementing agency: South Asian University, New Delhi, India and Kyoto University, Japan</li>
             <li>Duration: 2020 to 2022</li>
             <li>Role: Principal Investigator</li>
             </ul>
