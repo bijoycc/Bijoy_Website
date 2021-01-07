@@ -44,6 +44,7 @@ publication_type = "-1"
  <div align="justify"> 
 	<h3>Journals:</h3>
 	<ol start="1"> 
+    <li> <u>Chatterjee, B.C.</u>, Wadud, A., and Oki, E., “Proactive Fragmentation Management Scheme Based on Crosstalk-Avoided Batch Processing for Spectrally-Spatially Elastic Optical Networks ,” <em>IEEE JSAC Special Issue on Latest Advances in Optical Networks for 5G Communications and Beyond</em>, 2021, IF: 11.42. [to appear]</li>
     <li> <u>Chatterjee, B.C.</u>, Stol, N., and Oki, E., “Impairment-Aware Spectrum Allocation in Elastic Optical Networks: A Dispersion-Sensitive Approach,” <em>Optical Fiber Technology</em>, 2020, IF:  2.212. [to appear]</li>
     <li><u>Chatterjee, B.C.</u>, and Oki, E.,  “Defragmentation Based on Route Partitioning in 1+1 Protected Elastic Optical Networks,” <em>Computer Networks</em>, vol. 177, 2020, pp. 1-11, IF: 3.111. </li>
         <li>Datta Choudhury, P., Reddy, P.V.R., <u>Chatterjee, B.C.</u>, Oki, E., and De, T., “Performance of Routing and Spectrum Allocation Approaches for Multicast Traffic in Elastic Optical Networks,” <em>Optical Fiber Technology</em>, vol. 58, pp. 1-8, IF:  2.212. </li>
