@@ -52,6 +52,14 @@ filter_default = 0
 
 <div align="justify">
       <ol>
+        <li>Efficient resource allocation for spectrally-spatially elastic optical networks
+          <ul>
+            <li>Funding Agency: Core Research Grant, Science and Engineering Research Board (SERB), Govt. of India</li>
+            <li>Implementing agency: South Asian University, New Delhi</li>
+            <li>Duration: 2021 to 2023</li>
+            <li>Role: Principal Investigator</li>
+            </ul>
+        </li>
         <li>Development of secured and reliable spectrum allocation schemes for next-generation elastic optical networks
           <ul>
             <li>Funding Agency: Ministry of Electronics & IT (MeitY), R&D in CC&BT group, Govt. of India</li>
