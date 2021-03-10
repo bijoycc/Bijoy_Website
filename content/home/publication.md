@@ -82,7 +82,8 @@ publication_type = "-1"
 	<div align="justify"> 
 	<h3>Conferences:</h3>
 	<ol start="1">
-    <li>Takeda, K., Sato, T., <u>Chatterjee,  B.C.</u>, and Oki, E., “Jointly Inter-Core XT and Impairment Aware Lightpath Provisioning in Elastic Optical Networks,” <em>Proc. of IEEE ICC</em>, 14-23 June 2021, Montreal, Canada.</li>
+    <li>Bao, B., Yang, H., Wan, Y., Yao, A., Zhang, J., <u>Chatterjee,  B.C.</u>, and Oki, E., “Node-Oriented Traffic Prediction and Scheduling Based on Graph Convolutional Network in Metro Optical Networks,” <em>Proc. of IEEE/OSA OFC</em>, 06 – 11 June 2021, CA, USA (Virtual Conference).</li>    
+    <li>Takeda, K., Sato, T., <u>Chatterjee,  B.C.</u>, and Oki, E., “Jointly Inter-Core XT and Impairment Aware Lightpath Provisioning in Elastic Optical Networks,” <em>Proc. of IEEE ICC</em>, 14-23 June 2021, Montreal, Canada (Virtual Conference).</li>
     <li>Kawabata, A., <u>Chatterjee, B.C.</u>, and Oki, E., “Optimal Server Selection Scheme with Optimistic Synchronization for Delay Sensitive Services,” <em>Proc. of IEEE CCNC</em>, 9-12 Jan 2021, USA (Virtual Conference).</li>
     <li><u>Chatterjee, B.C.</u> and Oki, E., “Defragmentation for 1+1 Protected Elastic Optical Networks: A Route Partitioning Approach,” <em>16th International Conference on IP + Optical Network (iPOP2020)</em>, 10-11 Sept 2020, Japan (Virtual Conference).</li>
     <li>Oki, E., Sawa, T., He, F., Sato, T., and <u>Chatterjee, B.C.</u>, “Performance of Hitless Defragmentation with Rerouting for Quasi 1+1 Protected Elastic Optical Networks,” <em>Proc. of 21th ICTON</em>, 19-23 July 2020, Bari, Italy, paper Mo.D3.6. [Invited paper]. </li>
