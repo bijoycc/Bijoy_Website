@@ -11,4 +11,4 @@ subtitle = ""
 weight = 80
 
 +++
-<div align="justify"><strong>To prospective students:</strong> I am looking for a couple of motivated JRF (at least three) to work on different SERB, DST, and MeitY projects, funded by Govt. of India, in the area of Optical networks. If you are interested in working with me, please drop me a mail.</div>
+<div align="justify"><strong>To prospective students:</strong> <blink>I am looking for a couple of motivated JRF (at least three) to work on different SERB, DST, and MeitY projects, funded by Govt. of India, in the area of Optical networks. If you are interested in working with me, please drop me a mail.</blink></div>
