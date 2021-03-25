@@ -58,6 +58,7 @@ filter_default = 0
             <li>Implementing agency: South Asian University, New Delhi</li>
             <li>Duration: 2021 to 2023</li>
             <li>Role: Principal Investigator</li>
+            <li>Amount: 48,14,172 INR</li>
             </ul>
         </li>
         <li>Development of secured and reliable spectrum allocation schemes for next-generation elastic optical networks
@@ -66,6 +67,7 @@ filter_default = 0
             <li>Implementing agency: Tezpur University, Assam, South Asian University, New Delhi, and Dr. SPM International Institute of Information Technology, Naya Raipur</li>
             <li>Duration: 2021 to 2023</li>
             <li>Role: Chief Investigator</li>
+            <li>Amount: 86,63,952 INR</li>
             </ul>
         </li>
         <li>Spectrum defragmentation management in elastic optical networks using machine learning
@@ -74,13 +76,15 @@ filter_default = 0
             <li>Implementing agency: South Asian University, New Delhi, India and Kyoto University, Japan</li>
             <li>Duration: 2020 to 2022</li>
             <li>Role: Principal Investigator</li>
+            <li>Amount: 6,60,000 INR (Indian Side) + 2,000,000 JPY (Japan Side)</li>
             </ul>
         </li>
-        <li>Designing multi-objective elastic optical networks for high-speed communication
+        <li>DST Inspire Faculty Research Grant
           <ul>
             <li>Funding Agency: Dept. of Science and Technology, Govt. of India</li>
             <li>Duration: Apr 2017 to Mar 2023 </li>            
             <li>Role: Principal Investigator</li>
+            <li>Amount: 35,00,000 INR</li>
             </ul>
         </li>
         <li>Designing routing and spectrum allocation schemes for elastic optical networks
@@ -89,6 +93,7 @@ filter_default = 0
             <li>Implementing agency: The University of Electro-Communications, Japan</li>
             <li>Duration: May 2014 to Feb 2016 </li>
             <li>Role: Principal Investigator</li>
+            <li>Amount: 9,60,000 JPY</li>
           </ul>
         </li>
         </ol>
