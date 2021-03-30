@@ -44,6 +44,7 @@ publication_type = "-1"
  <div align="justify"> 
 	<h3>Journals:</h3>
 	<ol start="1">
+    <li>Kawabata, A.,  <u>Chatterjee, B.C.</u>, and Oki, E., “An Optimistic Synchronization Based Optimal Server Selection Scheme for Delay Sensitive Communication Services,” <em>IEICE Transactions on Communications</em>, 2021, IF: 0.614. [to appear]</li>    
     <li> <u>Chatterjee, B.C.</u>, Wadud, A., Ahmed, I., and Oki, E., “Priority-Based Inter-Core and Inter-Mode Crosstalk-Avoided Resource Allocation for Spectrally-Spatially Elastic Optical Networks,” <em>IEEE/ACM Transactions on Networking</em>, 2021, IF: 3.315. [to appear]</li>
     <li> Chauhan, P., Deka, S.K., <u>Chatterjee, B.C.</u>, and Sarma, N., “Utility-Aware Cooperative Spectrum Sensing Scheduling for Heterogeneous Multi-Channel Cognitive Radio Networks,” <em>Telecommunication Systems (Springer),</em> 2021, IF: 1.734. [to appear] </li>
      <li>Chauhan, P., Deka, S.K., <u>Chatterjee,  B.C.</u>, and Sarma, N., “Cooperative Spectrum Prediction-Driven Sensing for Energy Constrained Cognitive Radio Networks,” <em>IEEE Access</em>, 2021, IF: 3.745. [to appear] </li>
