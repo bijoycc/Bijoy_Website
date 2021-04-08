@@ -4,7 +4,7 @@ widget = "custom"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Projects"
+title = "Funding"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -89,7 +89,7 @@ filter_default = 0
         </li>
         <li>Designing routing and spectrum allocation schemes for elastic optical networks
           <ul>
-            <li>Funding Agency: Ministry of Education, Culture, Sports, Science and Technology under The Program for Promoting the Enhancement of Research Universities, Japan. </li>
+            <li>Funding Agency: Ministry of Education, Culture, Sports, Science and Technology under the Program for Promoting the Enhancement of Research Universities, Japan. </li>
             <li>Implementing agency: The University of Electro-Communications, Japan</li>
             <li>Duration: May 2014 to Feb 2016 </li>
             <li>Role: Principal Investigator</li>
