@@ -44,11 +44,11 @@ publication_type = "-1"
  <div align="justify"> 
 	<h3>Journals:</h3>
 	<ol start="1">    
-    <li> <u>Chatterjee, B.C.</u>, Wadud, A., Ahmed, I., and Oki, E., “Priority-Based Inter-Core and Inter-Mode Crosstalk-Avoided Resource Allocation for Spectrally-Spatially Elastic Optical Networks,” <em>IEEE/ACM Transactions on Networking</em>, 2021, IF: 3.315. [to appear]</li>
-    <li>Kawabata, A.,  <u>Chatterjee, B.C.</u>, and Oki, E., “An Optimistic Synchronization Based Optimal Server Selection Scheme for Delay Sensitive Communication Services,” <em>IEICE Transactions on Communications</em>, 2021, IF: 0.614. [to appear]</li>
+    <li> <u>Chatterjee, B.C.</u>, Wadud, A., Ahmed, I., and Oki, E., “Priority-Based Inter-Core and Inter-Mode Crosstalk-Avoided Resource Allocation for Spectrally-Spatially Elastic Optical Networks,” <em>IEEE/ACM Transactions on Networking</em>, vol. 29, no. 4, pp. 1634-1647, 2021, IF: 3.315.</li>
+    <li>Kawabata, A.,  <u>Chatterjee, B.C.</u>, and Oki, E., “An Optimistic Synchronization Based Optimal Server Selection Scheme for Delay Sensitive Communication Services,” <em>IEICE Transactions on Communications</em>, vol.E104-B, no.10, Oct. 2021. 2021, IF: 0.614. [to appear]</li>
     <li> Chauhan, P., Deka, S.K., <u>Chatterjee, B.C.</u>, and Sarma, N., “Utility-Aware Cooperative Spectrum Sensing Scheduling for Heterogeneous Multi-Channel Cognitive Radio Networks,” <em>Telecommunication Systems (Springer),</em> 2021, IF: 1.734. [to appear] </li>
      <li>Chauhan, P., Deka, S.K., <u>Chatterjee,  B.C.</u>, and Sarma, N., “Cooperative Spectrum Prediction-Driven Sensing for Energy Constrained Cognitive Radio Networks,” <em>IEEE Access</em>, 2021, IF: 3.745. [to appear] </li>
-    <li> <u>Chatterjee, B.C.</u>, Wadud, A., and Oki, E., “Proactive Fragmentation Management Scheme Based on Crosstalk-Avoided Batch Processing for Spectrally-Spatially Elastic Optical Networks,” <em>IEEE JSAC Special Issue on Latest Advances in Optical Networks for 5G Communications and Beyond</em>, 2021, IF: 11.42. [to appear]</li>
+    <li> <u>Chatterjee, B.C.</u>, Wadud, A., and Oki, E., “Proactive Fragmentation Management Scheme Based on Crosstalk-Avoided Batch Processing for Spectrally-Spatially Elastic Optical Networks,” <em>IEEE JSAC Special Issue on Latest Advances in Optical Networks for 5G Communications and Beyond</em>, vol. 39, no. 9, pp. 2719-2733, 2021, IF: 11.42.</li>
     <li> Fujun, H., Sato, T., <u>Chatterjee, B.C.</u>, Kurimoto, T., Urushidani, S., and Oki, E., “Robust Optimization Model for Primary and Backup Resource Allocation in Cloud Providers,” <em>IEEE Transactions on Cloud Computing</em>, 2021, IF: 4.714. [to appear]</li>
     <li> <u>Chatterjee, B.C.</u>, Stol, N., and Oki, E., “Impairment-Aware Spectrum Allocation in Elastic Optical Networks: A Dispersion-Sensitive Approach,” <em>Optical Fiber Technology</em>, 2020, IF:  2.212. [to appear]</li>
     <li><u>Chatterjee, B.C.</u>, and Oki, E.,  “Defragmentation Based on Route Partitioning in 1+1 Protected Elastic Optical Networks,” <em>Computer Networks</em>, vol. 177, 2020, pp. 1-11, IF: 3.111. </li>
@@ -85,6 +85,8 @@ publication_type = "-1"
 	<div align="justify"> 
 	<h3>Conferences:</h3>
 	<ol start="1">
+    <li><u>Chatterjee, B.C.</u>, Ahmed, I., Wadud, A., and Oki, E., “A Crosstalk-Avoided Core, Mode, and Spectrum Allocation Scheme Based on Priority for Spectrally-Spatially Elastic Optical Networks,” <em>17th International Conference on IP + Optical Network (iPOP2021)</em>, 30th Sept - 1th Oct 2021, Japan (Virtual Conference).</li>
+    <li>Kawabata, A., Tojo, T., <u>Chatterjee, B.C.</u>, and Oki, E., <u>Chatterjee,  B.C.</u>, and Oki, E., “An Optimal Allocation Scheme of Database and Application for Delay Sensitive IoT Services,” <em>Proc. of IEEE Globecom</em>, 7-11 Dec 2021 // Madrid, Spain (Hybrid: In-Person and Virtual Conference).</li>
     <li>Bao, B., Yang, H., Wan, Y., Yao, A., Zhang, J., <u>Chatterjee,  B.C.</u>, and Oki, E., “Node-Oriented Traffic Prediction and Scheduling Based on Graph Convolutional Network in Metro Optical Networks,” <em>Proc. of IEEE/OSA OFC</em>, 06 – 11 June 2021, CA, USA (Virtual Conference).</li>
     <li>Takeda, K., Sato, T., <u>Chatterjee,  B.C.</u>, and Oki, E., “Jointly Inter-Core XT and Impairment Aware Lightpath Provisioning in Elastic Optical Networks,” <em>Proc. of IEEE ICC</em>, 14-23 June 2021, Montreal, Canada (Virtual Conference).</li>
     <li>Kawabata, A., <u>Chatterjee, B.C.</u>, and Oki, E., “Optimal Server Selection Scheme with Optimistic Synchronization for Delay Sensitive Services,” <em>Proc. of IEEE CCNC</em>, 9-12 Jan 2021, USA (Virtual Conference).</li>
