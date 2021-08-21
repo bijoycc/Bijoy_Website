@@ -86,7 +86,7 @@ publication_type = "-1"
 	<h3>Conferences:</h3>
 	<ol start="1">
     <li><u>Chatterjee, B.C.</u>, Ahmed, I., Wadud, A., and Oki, E., “A Crosstalk-Avoided Core, Mode, and Spectrum Allocation Scheme Based on Priority for Spectrally-Spatially Elastic Optical Networks,” <em>17th International Conference on IP + Optical Network (iPOP2021)</em>, 30th Sept - 1th Oct 2021, Japan (Virtual Conference).</li>
-    <li>Kawabata, A., Tojo, T., <u>Chatterjee, B.C.</u>, and Oki, E., <u>Chatterjee,  B.C.</u>, and Oki, E., “An Optimal Allocation Scheme of Database and Application for Delay Sensitive IoT Services,” <em>Proc. of IEEE Globecom</em>, 7-11 Dec 2021 // Madrid, Spain (Hybrid: In-Person and Virtual Conference).</li>
+    <li>Kawabata, A., Tojo, T., <u>Chatterjee, B.C.</u>, and Oki, E., “An Optimal Allocation Scheme of Database and Application for Delay Sensitive IoT Services,” <em>Proc. of IEEE Globecom</em>, 7-11 Dec 2021, Madrid, Spain (Hybrid: In-Person and Virtual Conference).</li>
     <li>Bao, B., Yang, H., Wan, Y., Yao, A., Zhang, J., <u>Chatterjee,  B.C.</u>, and Oki, E., “Node-Oriented Traffic Prediction and Scheduling Based on Graph Convolutional Network in Metro Optical Networks,” <em>Proc. of IEEE/OSA OFC</em>, 06 – 11 June 2021, CA, USA (Virtual Conference).</li>
     <li>Takeda, K., Sato, T., <u>Chatterjee,  B.C.</u>, and Oki, E., “Jointly Inter-Core XT and Impairment Aware Lightpath Provisioning in Elastic Optical Networks,” <em>Proc. of IEEE ICC</em>, 14-23 June 2021, Montreal, Canada (Virtual Conference).</li>
     <li>Kawabata, A., <u>Chatterjee, B.C.</u>, and Oki, E., “Optimal Server Selection Scheme with Optimistic Synchronization for Delay Sensitive Services,” <em>Proc. of IEEE CCNC</em>, 9-12 Jan 2021, USA (Virtual Conference).</li>
