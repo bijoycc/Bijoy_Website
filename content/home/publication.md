@@ -84,7 +84,8 @@ publication_type = "-1"
 	</div>
 	<div align="justify"> 
 	<h3>Conferences:</h3>
-	<ol start="1">
+	<ol start="1"> 
+    <li>Bao, B., Yang, H., Yao, Q., Chao, L., <u>Chatterjee,  B.C.</u>, and Oki, E., “Link-oriented Spectrum Resource Balancing for Hybrid Edge/Cloud Elastic Datacenter Optical Networks,” <em>Proc. of IEEE/OSA ACP</em>, 24 – 27 Oct 2021, Shanghai, China (Virtual Conference).</li>
     <li><u>Chatterjee, B.C.</u>, Ahmed, I., Wadud, A., and Oki, E., “A Crosstalk-Avoided Core, Mode, and Spectrum Allocation Scheme Based on Priority for Spectrally-Spatially Elastic Optical Networks,” <em>17th International Conference on IP + Optical Network (iPOP2021)</em>, 30th Sept - 1th Oct 2021, Japan (Virtual Conference).</li>
     <li>Kawabata, A., Tojo, T., <u>Chatterjee, B.C.</u>, and Oki, E., “An Optimal Allocation Scheme of Database and Application for Delay Sensitive IoT Services,” <em>Proc. of IEEE Globecom</em>, 7-11 Dec 2021, Madrid, Spain (Hybrid: In-Person and Virtual Conference).</li>
     <li>Bao, B., Yang, H., Wan, Y., Yao, A., Zhang, J., <u>Chatterjee,  B.C.</u>, and Oki, E., “Node-Oriented Traffic Prediction and Scheduling Based on Graph Convolutional Network in Metro Optical Networks,” <em>Proc. of IEEE/OSA OFC</em>, 06 – 11 June 2021, CA, USA (Virtual Conference).</li>
