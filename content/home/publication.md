@@ -44,7 +44,7 @@ publication_type = "-1"
  <div align="justify"> 
 	<h3>Journals:</h3>
 	<ol start="1"> 
-    <li><u>Halder, J., Maity, M., Oki, E., and Chatterjee, B.C.</u>, “Shared Backup Path Protection-Based Resource Allocation Considering Inter-Core and
+    <li>Halder, J., Maity, M., Oki, E., and <u>Chatterjee, B.C.</u>, “Shared Backup Path Protection-Based Resource Allocation Considering Inter-Core and
 Inter-Mode Crosstalk for Spectrally-Spatially Elastic Optical Networks,” <em>IEEE Communications Letters</em>, 2022, IF: 3.457 [to appear]</li>
     <li>Jana, R.K., <u>Chatterjee, B.C.</u>, Singh, A.P., Srivastava, A., Mukherjee, B., Lord, A., and Mitra, A., “Machine Learning-Assisted Nonlinear-Impairment-Aware Proactive Defragmentation for C+L Band Elastic Optical Networks,” <em>IEEE/OSA Journal of Optical Communications and Networking</em>, vol. 14, no. 3, pp. 56-68, IF: 3.425 </li>
      <li>Bao, B., Yang, H., Yao, Q., Yu, A., <u>Chatterjee,  B.C.</u>, Oki, E., and Zhang, J. “SDFA: A Service-Driven Fragmentation-Aware Resource Allocation in Elastic Optical Networks,”  <em>IEEE Transactions on Network and Service Management</em>, 2021, IF: 4.19. [to appear]</li>
