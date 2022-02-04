@@ -127,6 +127,8 @@ Inter-Mode Crosstalk for Spectrally-Spatially Elastic Optical Networks,” <em>I
 	<div align="justify">
 	<h3>Workshops and Technical Reports:</h3>
     <ol start="1">
+      <li> Ahmed, I., Oki, E., and <u>Chatterjee,  B.C.</u> “Crosstalk-Aware vs. Crosstalk-Avoided Approaches in Spectrally-Spatially Elastic Optical Networks: Which is the Better Choice?,” <em>5th IEEE Workshop in Recent Advances in Photonics-2022 (WRAP-2022)</em>, 4-6 March 2022, IIT Bombay, Mumbai, India.</li>
+      <li>Takeda, K., Sato, T., <u>Chatterjee,  B.C.</u>, and Oki, E., “Performance of Joint Inter-Core Crosstalk- and Intra-Core Impairment-Aware Lightpath Provisioning Model in Elastic Optical Networks,” <em>IEICE Technical Report</em>, <em> Photonic Network</em>, vol. 120, no. 388, pp. 116-122, 2021.</li>
       <li>Takeda, K., Sato, T., <u>Chatterjee,  B.C.</u>, and Oki, E., “Jointly Inter-core XT and Intra-core Impairment Aware Resource Allocation Model in Space-division Multiplexing Elastic Optical Networks,” <em>IEICE Technical Report</em>, <em> Photonic Network</em>, vol. 120, no. 388, pp. 116-122, 2021.</li>
       <li>Sawa, T., He, F., Sato, T., <u>Chatterjee, B.C.</u>, and Oki, E., “Defragmentation Based on Rerouting and Toggling Paths in 1+1 Path Protected Elastic Optical Networks,” <em>IEICE Technical Report</em>,<em> Photonic Network</em>, 2018.</li>
       <li>Fujun He, F., Sato, T., <u>Chatterjee, B.C.</u>, Kurimoto, T., Urushidani, S., and Oki, E., “Mix Integer Linear	Programming	Model	for Backup Resource Allocation in Cloud Provider,” <em> Photonic Network Workshop</em>, 25 Jul 2018, Kyoto University, Japan. [poster presentation]</li>
