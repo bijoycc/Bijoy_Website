@@ -36,7 +36,7 @@ publication_type = "-1"
  <div align="justify">  
     <h3>Books and Book Chapters:</h3>
     <ol>
-      <li>Book: <u>Chatterjee, B.C.</u><sup color:red>*</sup> and Oki, E., Elastic Optical Networking Technologies: Fundamentals, Design,  Control, and Management. CRC Press, Taylor and Francis Group, Boca Raton,  U.S.A, 2020; ISBN-13: 978-1138611719, ISBN-10: 1138611719. </li>
+      <li>Book: <u>Chatterjee, B.C.<sup style="text-decoration:none;color:red>*</sup></u> and Oki, E., Elastic Optical Networking Technologies: Fundamentals, Design,  Control, and Management. CRC Press, Taylor and Francis Group, Boca Raton,  U.S.A, 2020; ISBN-13: 978-1138611719, ISBN-10: 1138611719. </li>
       <li>Book: <u>Chatterjee, B.C.</u>, Sarma,  N., Sahu, P.P. and Oki, E., “Routing and Wavelength Assignment for WDM-based  Optical Networks: Quality-of-Service and Fault Resilience”, Springer  International Publishing, Lecture Notes in Electrical Engineering, Volume 410,  2017; ISBN: 978-3-319-46202-8 (Print) 978-3-319-46203-5 (Online)</li>      
       <li>Book  Chapter: <u>Chatterjee, B.C.</u>,  Sarma, N. and Sahu, P.P., “A study on routing and wavelength assignment  approaches for optical networks,” in Information and Communication Technology  for Education, Healthcare and Rural Development, ISBN: 978-81-8487-205-7, In:  D. Goswami, S. Bhattacharya, F.A. Barbhuiya, and S. Chakraborty, Editors.  India: Narosa Publishing House; pp. 88-100, 2012.</li>
     </ol>
