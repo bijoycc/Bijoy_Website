@@ -91,6 +91,8 @@ Inter-Mode Crosstalk for Spectrally-Spatially Elastic Optical Networks,” <em>I
 	<div align="justify"> 
 	<h3>Conferences:</h3>
 	<ol start="1">
+    <li><u>Chatterjee, B.C.</u>, Ahmed, I., Wadud, A., Maity, M., and Oki, E., “Impact of Counter-Propagation and Bi-Partitioning in Resource Allocation for Crosstalk-Avoided Spectrally-Spatially Elastic Optical Networks,” <em>18th International Conference on IP + Optical Network (iPOP2022)</em>, 3rd Jun 2022, Japan (Virtual Conference) [POSTER Presentation].</li>
+    <li>Halder, J., Maity, M., Oki, E., and <u>Chatterjee, B.C.</u> “Resource Allocation Considering Inter-Core and Inter-Mode Crosstalks in Path-Protected Spectrally-Spatially Elastic Optical Networks,” <em>18th International Conference on IP + Optical Network (iPOP2022)</em>, 3rd Jun 2022, Japan (Virtual Conference) [POSTER Presentation].</li>
     <li>Halder, J., Maity, M., Oki, E., and <u>Chatterjee, B.C.</u>, “Crosstalk and Noise Avoided Resource Allocation Based on Quantum-Key-Distribution for Spectrally-Spatially Elastic Optical Networks,” <em>Proc. of IEEE ICC</em>, 16–20 May 2022,  Seoul, South Korea (Hybrid: In-Person and Virtual Conference).</li>
     <li>Kawabata, A., <u>Chatterjee, B.C.</u>, and Oki, E., “An Optimistic Synchronization Based Server Selection Scheme with Successive Participation,” <em>Proc. of IEEE CCNC</em>, 8–11 Jan 2022, Las Vegas, USA (Virtual Conference) [POSTER Presentation].</li>
     <li>Bao, B., Yang, H., Yao, Q., Chao, L., <u>Chatterjee,  B.C.</u>, and Oki, E., “Link-oriented Spectrum Resource Balancing for Hybrid Edge/Cloud Elastic Datacenter Optical Networks,” <em>Proc. of IEEE/OSA ACP</em>, 24 – 27 Oct 2021, Shanghai, China (Virtual Conference) [POSTER Presentation].</li>
