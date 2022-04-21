@@ -91,6 +91,9 @@ Inter-Mode Crosstalk for Spectrally-Spatially Elastic Optical Networks,” <em>I
 	<div align="justify"> 
 	<h3>Conferences:</h3>
 	<ol start="1">
+     <li>Halder, J., Oki, E., and <u>Chatterjee, B.C.</u>, “Regenerator-Aware Inter-Core and Inter-Mode Crosstalk-Avoided Resource Allocation for Spectrally-Spatially Elastic Optical Networks,” <em>23rd International Conference on High Performance Switching and Routing (HPSR)</em>, 6th-8th June, Jiangsu, China (Hybrid: In-Person and Virtual Conference).</li>
+    <li>Kumar, V., Halder, J., Mitra, A., Oki, E., and <u>Chatterjee, B.C.</u>, “Inter-Core and Inter-Mode Crosstalk-Avoided Virtual Network
+Embedding in Spectrally-Spatially Elastic Optical Networks,” <em>23rd International Conference on High Performance Switching and Routing (HPSR)</em>, 6th-8th June, Jiangsu, China (Hybrid: In-Person and Virtual Conference).</li>
     <li><u>Chatterjee, B.C.</u>, Ahmed, I., Wadud, A., Maity, M., and Oki, E., “Impact of Counter-Propagation and Bi-Partitioning in Resource Allocation for Crosstalk-Avoided Spectrally-Spatially Elastic Optical Networks,” <em>18th International Conference on IP + Optical Network (iPOP2022)</em>, 3rd Jun 2022, Japan (Hybrid: In-Person and Virtual Conference) [POSTER Presentation].</li>
     <li>Halder, J., Maity, M., Oki, E., and <u>Chatterjee, B.C.</u> “Resource Allocation Considering Inter-Core and Inter-Mode Crosstalks in Path-Protected Spectrally-Spatially Elastic Optical Networks,” <em>18th International Conference on IP + Optical Network (iPOP2022)</em>, 3rd Jun 2022, Japan (Hybrid: In-Person and Virtual Conference) [POSTER Presentation].</li>
     <li>Halder, J., Maity, M., Oki, E., and <u>Chatterjee, B.C.</u>, “Crosstalk and Noise Avoided Resource Allocation Based on Quantum-Key-Distribution for Spectrally-Spatially Elastic Optical Networks,” <em>Proc. of IEEE ICC</em>, 16–20 May 2022,  Seoul, South Korea (Hybrid: In-Person and Virtual Conference).</li>
