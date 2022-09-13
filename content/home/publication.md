@@ -135,7 +135,7 @@ Embedding in Spectrally-Spatially Elastic Optical Networks,” <em>23rd Internat
 	<div align="justify">
 	<h3>Workshops and Technical Reports:</h3>
     <ol start="1">
-      <li> Ahmed, I., Oki, E., and <u>Chatterjee,  B.C.</u> “Crosstalk-Aware vs. Crosstalk-Avoided Approaches in Spectrally-Spatially Elastic Optical Networks: Which is the Better Choice?,” <em>The Journal of the Institute of Electronics Information and Communication Engineers</em>, 4-6 March 2022, IIT Bombay, Mumbai, India.</li>
+      <li> Ahmed, I., Oki, E., and <u>Chatterjee,  B.C.</u> “Crosstalk-Aware vs. Crosstalk-Avoided Approaches in Spectrally-Spatially Elastic Optical Networks: Which is the Better Choice?,” <em>5th IEEE Workshop in Recent Advances in Photonics-2022 (WRAP-2022)</em>, 4-6 March 2022, IIT Bombay, Mumbai, India.</li>
        <li>Takeda, K., Sato, T., <u>Chatterjee,  B.C.</u>, and Oki, E., “Performance of Joint Inter-Core Crosstalk- and Intra-Core Impairment-Aware Lightpath Provisioning Model in Elastic Optical Networks,” <em>IEICE Technical Report</em>, <em> Photonic Network</em>, vol. 121, no. 350, pp. 23-30, 2022.</li>
        <li> Kumar, P. and <u>Chatterjee,  B.C.</u> “Indian IT and Telecommunication Industry: Past, Present, and Future,” <em>5th IEEE Workshop in Recent Advances in Photonics-2022 (WRAP-2022)</em>, vol. 104, no. 7, pp. 734-737, 2021.</li>
       <li>Takeda, K., Sato, T., <u>Chatterjee,  B.C.</u>, and Oki, E., “Jointly Inter-core XT and Intra-core Impairment Aware Resource Allocation Model in Space-division Multiplexing Elastic Optical Networks,” <em>IEICE Technical Report</em>, <em> Photonic Network</em>, vol. 120, no. 388, pp. 116-122, 2021.</li>
