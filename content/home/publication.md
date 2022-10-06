@@ -93,6 +93,7 @@ Inter-Mode Crosstalk for Spectrally-Spatially Elastic Optical Networks,” <em>I
 	<div align="justify"> 
 	<h3>Conferences:</h3>
 	<ol start="1">
+    <li>Kawabata, A., <u>Chatterjee, B.C.</u>, and Oki, E., “MHND: Multi-Homing Network Design Model for Delay Sensitive Distributed Processing Applications,” <em>Proc. of IEEE CCNC</em>, 8–11 Jan 2023, Las Vegas, USA.</li>
      <li>Halder, J., Oki, E., and <u>Chatterjee, B.C.</u>, “Regenerator-Aware Inter-Core and Inter-Mode Crosstalk-Avoided Resource Allocation for Spectrally-Spatially Elastic Optical Networks,” <em>23rd International Conference on High Performance Switching and Routing (HPSR)</em>, 6-8 Jun 2022, Jiangsu, China (Hybrid: In-Person and Virtual Conference).</li>
     <li>Kumar, V., Halder, J., Mitra, A., Oki, E., and <u>Chatterjee, B.C.</u>, “Inter-Core and Inter-Mode Crosstalk-Avoided Virtual Network
 Embedding in Spectrally-Spatially Elastic Optical Networks,” <em>23rd International Conference on High Performance Switching and Routing (HPSR)</em>, 6-8 Jun 2022, Jiangsu, China (Hybrid: In-Person and Virtual Conference).</li>
