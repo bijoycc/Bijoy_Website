@@ -44,10 +44,10 @@ publication_type = "-1"
  <div align="justify"> 
 	<h3>Journals:</h3>
 	<ol start="1"> 
-    <li><u>Chatterjee, B.C.</u>, Basavaprabhu, S., and Oki, E., “BPA: Approximation Batch-Processing Algorithm for Static Lightpath Requests in Elastic Optical Networks,” <em>IEEE Networking Letters</em>, 2022. [to appear]</li>
-    <li>Jana, R.K., <u>Chatterjee, B.C.</u>, Singh, A.P., Srivastava, A., Mukherjee, B., Lord, A., and Mitra, A., “Quality-Aware Resource Provisioning for Multiband Elastic Optical Networks: A Deep Learning-Assisted Approach,” <em>IEEE/OSA Journal of Optical Communications and Networking</em>, 2022, IF: 3.984. [to appear]</li>
-    <li><u>Chatterjee,  B.C.</u>, Ahmed, I., Wadud, A., Maity, M., and Oki, E., “BPRIA: Crosstalk-Avoided Bi-Partitioning-Based Counter-Propagating Resource Identification and Allocation for Spectrally-Spatially Elastic Optical Networks,” <em>IEEE Transactions on Network and Service Management</em>, 2022, IF: 4.195. [to appear]</li>
+        <li><u>Chatterjee,  B.C.</u>, Ahmed, I., Wadud, A., Maity, M., and Oki, E., “BPRIA: Crosstalk-Avoided Bi-Partitioning-Based Counter-Propagating Resource Identification and Allocation for Spectrally-Spatially Elastic Optical Networks,” <em>IEEE Transactions on Network and Service Management</em>, 2022, IF: 4.195. [to appear]</li>
     <li>Takeda, K., Sato, T., <u>Chatterjee,  B.C.</u>, and Oki, E., “Joint Inter-Core Crosstalk- and Intra-Core Impairment-Aware Lightpath Provisioning Model in Space-Division Multiplexing Elastic Optical Networks,” <em>IEEE Transactions on Network and Service Management</em>, 2022, IF: 4.195. [to appear]</li>
+    <li><u>Chatterjee, B.C.</u>, Basavaprabhu, S., and Oki, E., “BPA: Approximation Batch-Processing Algorithm for Static Lightpath Requests in Elastic Optical Networks,” <em>IEEE Networking Letters</em>, vol. 4, no. 4, pp. 189-193, 2022.</li>
+    <li>Jana, R.K., <u>Chatterjee, B.C.</u>, Singh, A.P., Srivastava, A., Mukherjee, B., Lord, A., and Mitra, A., “Quality-Aware Resource Provisioning for Multiband Elastic Optical Networks: A Deep Learning-Assisted Approach,” <em>IEEE/OSA Journal of Optical Communications and Networking</em>, vol. 14, no. 11, pp. 882-893, 2022, IF: 3.984.</li>
     <li>Halder, J., Maity, M., Oki, E., and <u>Chatterjee, B.C.</u>, “Shared Backup Path Protection-Based Resource Allocation Considering Inter-Core and
 Inter-Mode Crosstalk for Spectrally-Spatially Elastic Optical Networks,” <em>IEEE Communications Letters</em>, vol. 26, no. 3, pp. 637-641, 2022, IF: 3.436</li>
     <li>Jana, R.K., <u>Chatterjee, B.C.</u>, Singh, A.P., Srivastava, A., Mukherjee, B., Lord, A., and Mitra, A., “Machine Learning-Assisted Nonlinear-Impairment-Aware Proactive Defragmentation for C+L Band Elastic Optical Networks,” <em>IEEE/OSA Journal of Optical Communications and Networking</em>, vol. 14, no. 3, pp. 56-68, 2022, IF: 3.984 </li>
@@ -93,6 +93,7 @@ Inter-Mode Crosstalk for Spectrally-Spatially Elastic Optical Networks,” <em>I
 	<div align="justify"> 
 	<h3>Conferences:</h3>
 	<ol start="1">
+    <li>Kawabata, A., <u>Chatterjee, B.C.</u>, and Oki, E., “A Network Design Approach Considering Data Consistency for Delay-Sensitive Distributed Processing Systems,” <em>Proc. of IEEE ICC</em>, 28 May – 01 June 2023 // Rome, Italy [to appear].</li>
             <li>Prajapati, U., <u>Chatterjee, B.C.</u>, Banerjee, A., “OptiGSM: Greedy-Based Load Balancing with Minimum Switch Migration in Software-Defined Networks,” <em>Proc. of IEEE ANTS</em>, 18–21 Dec 2022, Gandhinagar, Gujarat, India.</li>
         <li>Kumar, V., Halder, J., Oki, E., and <u>Chatterjee, B.C.</u>, “XTawVNE: Inter Core and Inter Mode Crosstalk Aware Virtual Network Embedding in Spectrally Spatially Elastic Optical Networks,” <em>Proc. of IEEE ANTS</em>, 18–21 Dec 2022, Gandhinagar, Gujarat, India.</li>
     <li>Kawabata, A., <u>Chatterjee, B.C.</u>, and Oki, E., “MHND: Multi-Homing Network Design Model for Delay Sensitive Distributed Processing Applications,” <em>Proc. of IEEE CCNC</em>, 8–11 Jan 2023, Las Vegas, USA.</li>
