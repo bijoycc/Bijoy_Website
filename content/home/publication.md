@@ -44,8 +44,8 @@ publication_type = "-1"
  <div align="justify"> 
 	<h3>Journals:</h3>
 	<ol start="1"> 
-        <li><u>Chatterjee,  B.C.</u>, Ahmed, I., Wadud, A., Maity, M., and Oki, E., “BPRIA: Crosstalk-Avoided Bi-Partitioning-Based Counter-Propagating Resource Identification and Allocation for Spectrally-Spatially Elastic Optical Networks,” <em>IEEE Transactions on Network and Service Management</em>, 2022, IF: 4.195. [to appear]</li>
-    <li>Takeda, K., Sato, T., <u>Chatterjee,  B.C.</u>, and Oki, E., “Joint Inter-Core Crosstalk- and Intra-Core Impairment-Aware Lightpath Provisioning Model in Space-Division Multiplexing Elastic Optical Networks,” <em>IEEE Transactions on Network and Service Management</em>, 2022, IF: 4.195. [to appear]</li>
+        <li><u>Chatterjee,  B.C.</u>, Ahmed, I., Wadud, A., Maity, M., and Oki, E., “BPRIA: Crosstalk-Avoided Bi-Partitioning-Based Counter-Propagating Resource Identification and Allocation for Spectrally-Spatially Elastic Optical Networks,” <em>IEEE Transactions on Network and Service Management</em>, vol. 19, no. 4, pp. 4369-4383, 2022, IF: 4.195.</li>
+    <li>Takeda, K., Sato, T., <u>Chatterjee,  B.C.</u>, and Oki, E., “Joint Inter-Core Crosstalk- and Intra-Core Impairment-Aware Lightpath Provisioning Model in Space-Division Multiplexing Elastic Optical Networks,” <em>IEEE Transactions on Network and Service Management</em>, vol. 19, no. 4, pp. 4323-4337, 2022, IF: 4.195 </li>
     <li><u>Chatterjee, B.C.</u>, Basavaprabhu, S., and Oki, E., “BPA: Approximation Batch-Processing Algorithm for Static Lightpath Requests in Elastic Optical Networks,” <em>IEEE Networking Letters</em>, vol. 4, no. 4, pp. 189-193, 2022.</li>
     <li>Jana, R.K., <u>Chatterjee, B.C.</u>, Singh, A.P., Srivastava, A., Mukherjee, B., Lord, A., and Mitra, A., “Quality-Aware Resource Provisioning for Multiband Elastic Optical Networks: A Deep Learning-Assisted Approach,” <em>IEEE/OSA Journal of Optical Communications and Networking</em>, vol. 14, no. 11, pp. 882-893, 2022, IF: 3.984.</li>
     <li>Halder, J., Maity, M., Oki, E., and <u>Chatterjee, B.C.</u>, “Shared Backup Path Protection-Based Resource Allocation Considering Inter-Core and
