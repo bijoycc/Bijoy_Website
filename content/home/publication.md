@@ -94,7 +94,7 @@ Inter-Mode Crosstalk for Spectrally-Spatially Elastic Optical Networks,” <em>I
 	<div align="justify"> 
 	<h3>Conferences:</h3>
 	<ol start="1">
-        <li>Takeda, K., Sato, T., <u>Chatterjee, B.C.</u>, and Oki, E., “Crosstalk-Derived Fragmentation-Aware Lightpath Provisioning Model in Spectrally-Spatially Elastic Optical Networks,” <em>Proc. of IEEE OECC</em>, 2-6 July, 2023, Shanghai, China.</li>
+        <li>Takeda, K., Sato, T., <u>Chatterjee, B.C.</u>, and Oki, E., “Crosstalk-Derived Fragmentation-Aware Lightpath Provisioning Model in Spectrally-Spatially Elastic Optical Networks,” <em>Proc. of IEEE OECC</em>, 2-6 Jul 2023, Shanghai, China.</li>
     <li>Kawabata, A., <u>Chatterjee, B.C.</u>, and Oki, E., “A Network Design Approach Considering Data Consistency for Delay-Sensitive Distributed Processing Systems,” <em>Proc. of IEEE ICC</em>, 28 May–01 June 2023, Rome, Italy.</li>
             <li>Prajapati, U., <u>Chatterjee, B.C.</u>, Banerjee, A., “GLBSM: Greedy-Based Load Balancing by Reducing Switch Migrations in Software-Defined Networks,” <em>Proc. of IEEE ANTS</em>, 18–21 Dec 2022, Gandhinagar, Gujarat, India.</li>
         <li>Kumar, V., Halder, J., Oki, E., and <u>Chatterjee, B.C.</u>, “XTawVNE: Inter Core and Inter Mode Crosstalk Aware Virtual Network Embedding in Spectrally Spatially Elastic Optical Networks,” <em>Proc. of IEEE ANTS</em>, 18–21 Dec 2022, Gandhinagar, Gujarat, India.</li>
