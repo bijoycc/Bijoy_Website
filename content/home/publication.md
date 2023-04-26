@@ -44,6 +44,7 @@ publication_type = "-1"
  <div align="justify"> 
 	<h3>Journals:</h3>
 	<ol start="1"> 
+    <li>Halder, J. and <u>Chatterjee, B.C.</u>, “A Resource Allocation Model for Mixed-Grid Optical Networks,” <em>IEEE Transactions on Network and Service Management</em>, 2023, IF: 4.195 [to appear].</li>
         <li>Kawabata, A.,  Tojo, <u>Chatterjee, B.C.</u>, and Oki, E., “A Network Design Scheme in Delay Sensitive Monitoring Services,” <em>IEICE Transactions on Communications</em>, vol.E106-B, no.10, Oct 2023, IF: 0.740.</li>
         <li><u>Chatterjee,  B.C.</u>, Ahmed, I., Wadud, A., Maity, M., and Oki, E., “BPRIA: Crosstalk-Avoided Bi-Partitioning-Based Counter-Propagating Resource Identification and Allocation for Spectrally-Spatially Elastic Optical Networks,” <em>IEEE Transactions on Network and Service Management</em>, vol. 19, no. 4, pp. 4369-4383, 2022, IF: 4.195.</li>
     <li>Takeda, K., Sato, T., <u>Chatterjee,  B.C.</u>, and Oki, E., “Joint Inter-Core Crosstalk- and Intra-Core Impairment-Aware Lightpath Provisioning Model in Space-Division Multiplexing Elastic Optical Networks,” <em>IEEE Transactions on Network and Service Management</em>, vol. 19, no. 4, pp. 4323-4337, 2022, IF: 4.195 </li>
