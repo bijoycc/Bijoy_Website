@@ -95,6 +95,8 @@ Inter-Mode Crosstalk for Spectrally-Spatially Elastic Optical Networks,” <em>I
 	<div align="justify"> 
 	<h3>Conferences:</h3>
 	<ol start="1">
+          <li>Oki, E. and <u>Chatterjee, B.C.</u>, “Performance of Defragmentation Approach Based on Route Partitioning in 1+1 Protected Elastic Optical Networks,” <em>Proc. of 23rd ICTON</em>, 2-6 Jul 2023, Bucharest, Romania. [Invited Paper]</li>
+         <li>Khantwal, R., Kumar, V., Oki, E., and <u>Chatterjee, B.C.</u>, “PDavXT: Partition-Based Crosstalk-Avoided Defragmentation Scheme for Spectrally-Spatially Elastic Optical Networks,” <em>Proc. of 23rd ICTON</em>, 2-6 Jul 2023, Bucharest, Romania.</li>
         <li>Takeda, K., Sato, T., <u>Chatterjee, B.C.</u>, and Oki, E., “Crosstalk-Derived Fragmentation-Aware Lightpath Provisioning Model in Spectrally-Spatially Elastic Optical Networks,” <em>Proc. of IEEE OECC</em>, 2-6 Jul 2023, Shanghai, China.</li>
     <li>Kawabata, A., <u>Chatterjee, B.C.</u>, and Oki, E., “A Network Design Approach Considering Data Consistency for Delay-Sensitive Distributed Processing Systems,” <em>Proc. of IEEE ICC</em>, 28 May–01 June 2023, Rome, Italy.</li>
             <li>Prajapati, U., <u>Chatterjee, B.C.</u>, Banerjee, A., “GLBSM: Greedy-Based Load Balancing by Reducing Switch Migrations in Software-Defined Networks,” <em>Proc. of IEEE ANTS</em>, 18–21 Dec 2022, Gandhinagar, Gujarat, India.</li>
