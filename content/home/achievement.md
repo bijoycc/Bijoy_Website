@@ -18,7 +18,6 @@ weight = 50
 <div align="justify">
 <ol>
 <ul>
-<li> Selected our paper titled "Crosstalk-Derived Fragmentation-Aware Lightpath Provisioning Model in Spectrally-Spatially Elastic Optical Networks" authored by Takeda, K., Sato, T., Chatterjee, B.C., and Oki, E. for Best Paper Awards in IEEE OECC, held on 2-6 Jul 2023, Shanghai.</li>
 <li>IETE – Brig M L Anand Award FY 2021.</li>
 <li>INSA Visiting Scientist Award FY 2021-2022.</li>
 <li>Selected as Fellow of the Institution of Electronics and Telecommunications Engineers (IETE), India, in Mar 2021.</li>
