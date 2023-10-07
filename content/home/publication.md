@@ -98,6 +98,7 @@ Inter-Mode Crosstalk for Spectrally-Spatially Elastic Optical Networks,” <em>I
 	<div align="justify"> 
 	<h3>Conferences:</h3>
 	<ol start="1">
+        <li>	Sanetora Hiragi, S., <u>Chatterjee, B.C.</u>, Oki, E., and Kawabata, A., “A Distributed Processing Communication Scheme for Real-Time Applications over Wide-Area Networks,” <em>Proc. of IEEE CCNC</em>, 6–9 Jan 2024, Las Vegas, USA.</li>
           <li>Oki, E. and <u>Chatterjee, B.C.</u>, “Performance of Defragmentation Approach Based on Route Partitioning in 1+1 Protected Elastic Optical Networks,” <em>Proc. of 23rd ICTON</em>, 2-6 Jul 2023, Bucharest, Romania. [Invited Paper]</li>
          <li>Khantwal, R., Kumar, V., Oki, E., and <u>Chatterjee, B.C.</u>, “PDavXT: Partition-Based Crosstalk-Avoided Defragmentation Scheme for Spectrally-Spatially Elastic Optical Networks,” <em>Proc. of 23rd ICTON</em>, 2-6 Jul 2023, Bucharest, Romania.</li>
         <li>Takeda, K., Sato, T., <u>Chatterjee, B.C.</u>, and Oki, E., “Crosstalk-Derived Fragmentation-Aware Lightpath Provisioning Model in Spectrally-Spatially Elastic Optical Networks,” <em>Proc. of IEEE OECC</em>, 2-6 Jul 2023, Shanghai, China.</li>
