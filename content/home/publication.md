@@ -45,7 +45,7 @@ publication_type = "-1"
 	<h3>Journals:</h3>
    <br>[* indicates corresponding author]</br>   
 	<ol start="1">
-     <li> Ahmed, I., Rai, R., Maity, M., Oki, E., and <u>Chatterjee,  B.C.</u><sup><b>*</b></sup>, ``AnalyticalBP: Analytical Model for Blocking Probabilities Considering Crosstalk-Avoided Approach in Spectrally-Spatially Elastic Optical Networks,'' <em>IEEE Transactions on Communications</em>, 2023, IF: 8.3 [to appear].</li>
+     <li> Ahmed, I., Rai, R., Maity, M., Oki, E., and <u>Chatterjee,  B.C.</u><sup>*</sup>, ``AnalyticalBP: Analytical Model for Blocking Probabilities Considering Crosstalk-Avoided Approach in Spectrally-Spatially Elastic Optical Networks,'' <em>IEEE Transactions on Communications</em>, 2023, IF: 8.3 [to appear].</li>
      <li>Prajapati, U., <u>Chatterjee,  B.C.</u>, Banerjee, A., “OptiGSM: Greedy-Based Load Balancing with Minimum Switch Migrations in Software-Defined Networks,” <em>IEEE Transactions on Network and Service Management</em>, 2023, IF: 5.3 [to appear].</li>
     <li>Kawabata, A., <u>Chatterjee, B.C.</u>, and Oki, E., “MHND: Multi-Homing Network Design Model for Delay Sensitive Applications,” <em>IEICE Transactions on Communications</em>, 2023, IF: 0.7 [to appear].</li>
     <li>Halder, J. and <u>Chatterjee, B.C.</u><sup><b>*</b></sup>, “A Resource Allocation Model for Mixed-Grid Optical Networks,” <em>IEEE Transactions on Network and Service Management</em>, 2023, IF: 5.3 [to appear].</li>
