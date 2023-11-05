@@ -44,6 +44,7 @@ publication_type = "-1"
  <div align="justify"> 
 	<h3>Journals:</h3>
 	<ol start="1">
+     <li> Ahmed, I., Rai, R., Maity, M., Oki, E., and <sup><u>Chatterjee,  B.C.</u>*</sup>sup>, ``AnalyticalBP: Analytical Model for Blocking Probabilities Considering Crosstalk-Avoided Approach in Spectrally-Spatially Elastic Optical Networks,'' <em>IEEE Transactions on Communications</em>, 2023, IF: 8.3 [to appear].</li>
      <li>Prajapati, U., <u>Chatterjee,  B.C.</u>, Banerjee, A., “OptiGSM: Greedy-Based Load Balancing with Minimum
 Switch Migrations in Software-Defined Networks,” <em>IEEE Transactions on Network and Service Management</em>, 2023, IF: 4.195 [to appear].</li>
     <li>Kawabata, A., <u>Chatterjee, B.C.</u>, and Oki, E., “MHND: Multi-Homing Network Design Model for Delay Sensitive Applications,” <em>IEICE Transactions on Communications</em>, 2023, IF: 0.740 [to appear].</li>
@@ -58,7 +59,7 @@ Inter-Mode Crosstalk for Spectrally-Spatially Elastic Optical Networks,” <em>I
     <li>Jana, R.K., <u>Chatterjee, B.C.</u>, Singh, A.P., Srivastava, A., Mukherjee, B., Lord, A., and Mitra, A., “Machine Learning-Assisted Nonlinear-Impairment-Aware Proactive Defragmentation for C+L Band Elastic Optical Networks,” <em>IEEE/OSA Journal of Optical Communications and Networking</em>, vol. 14, no. 3, pp. 56-68, 2022, IF: 3.984 </li>
      <li>Bao, B., Yang, H., Yao, Q., Yu, A., <u>Chatterjee,  B.C.</u>, Oki, E., and Zhang, J. “SDFA: A Service-Driven Fragmentation-Aware Resource Allocation in Elastic Optical Networks,”  <em>IEEE Transactions on Network and Service Management</em>, vol. 19, no. 1, pp. 353-365, 2022, IF: 4.195.</li>
     <li> <u>Chatterjee, B.C.</u>, Wadud, A., Ahmed, I., and Oki, E., “Priority-Based Inter-Core and Inter-Mode Crosstalk-Avoided Resource Allocation for Spectrally-Spatially Elastic Optical Networks,” <em>IEEE/ACM Transactions on Networking</em>, vol. 29, no. 4, pp. 1634-1647, 2021, IF: 3.560.</li>
-    <li>Kawabata, A.,  <u>Chatterjee, B.C.</u>, and Oki, E., “An Optimistic Synchronization Based Optimal Server Selection Scheme for Delay Sensitive Communication Services,” <em>IEICE Transactions on Communications</em>, vol.E104-B, no.10, Oct. 2021. 2021, IF: 0.740.</li>
+    <li>Kawabata, A., <u>Chatterjee, B.C.</u>, and Oki, E., “An Optimistic Synchronization Based Optimal Server Selection Scheme for Delay Sensitive Communication Services,” <em>IEICE Transactions on Communications</em>, vol.E104-B, no.10, Oct. 2021. 2021, IF: 0.740.</li>
     <li> Chauhan, P., Deka, S.K., <u>Chatterjee, B.C.</u>, and Sarma, N., “Utility Driven Cooperative Spectrum Sensing Scheduling for Heterogeneous Multi-Channel Cognitive Radio Networks,” <em>Telecommunication Systems (Springer),</em> vol. 78, pp. 25–37, 2021, IF: 2.314. </li>
      <li>Chauhan, P., Deka, S.K., <u>Chatterjee,  B.C.</u>, and Sarma, N., “Cooperative Spectrum Prediction-Driven Sensing for Energy Constrained Cognitive Radio Networks,” <em>IEEE Access</em>, vol. 9, pp. 26107-26118, 2021, IF: 3.367. </li>
     <li> <u>Chatterjee, B.C.</u>, Wadud, A., and Oki, E., “Proactive Fragmentation Management Scheme Based on Crosstalk-Avoided Batch Processing for Spectrally-Spatially Elastic Optical Networks,” <em>IEEE JSAC Special Issue on Latest Advances in Optical Networks for 5G Communications and Beyond</em>, vol. 39, no. 9, pp. 2719-2733, 2021, IF: 9.144.</li>
