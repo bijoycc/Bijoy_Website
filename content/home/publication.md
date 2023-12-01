@@ -99,7 +99,7 @@ publication_type = "-1"
 	<div align="justify"> 
 	<h3>Conferences:</h3>
 	<ol start="1">
-        <li> Ahmed, I., Rai, R., Oki, E., and <u>Chatterjee,  B.C.</u>, “AnalyticalDF: Analytical Model for Blocking Probabilities Considering Spectrum Defragmentation in Spectrally-Spatially Elastic Optical Networks,'' <em>Proc. of IEEE ICNC</em>, 20–23 May 2024, Vancouver, Canada.</li>
+        <li> Ahmed, I., Rai, R., Oki, E., and <u>Chatterjee,  B.C.</u>, “AnalyticalDF: Analytical Model for Blocking Probabilities Considering Spectrum Defragmentation in Spectrally-Spatially Elastic Optical Networks,'' <em>Proc. of IEEE INFOCOM</em>, 20–23 May 2024, Vancouver, Canada.</li>
         <li>Imanaka, S., Kawabata, A., <u>Chatterjee, B.C.</u>, Oki, E., “Algorithm for Server Allocation in Delay-Sensitive Internet-of-Things Monitoring Services,” <em>Proc. of IEEE ICNC</em>, 19–22 Feb 2024, Hawaii, USA.</li>
         <li>	Barbhuiya, D.H., Deka, S.K., <u>Chatterjee, B.C.</u>, and Sarma, N., “ML-DSP: Machine Learning-Assisted Dynamic Spectrum Partitioning in Elastic Optical Networks,” <em>Proc. of IEEE ANTS</em>, 17–20 Dec 2023, Jaipur, India.</li>
         <li>	Hiragi, S., <u>Chatterjee, B.C.</u>, Oki, E., and Kawabata, A., “A Distributed Processing Communication Scheme for Real-Time Applications over Wide-Area Networks,” <em>Proc. of IEEE CCNC</em>, 6–9 Jan 2024, Las Vegas, USA.</li>
