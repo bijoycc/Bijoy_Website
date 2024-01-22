@@ -44,6 +44,7 @@ publication_type = "-1"
  <div align="justify"> 
 	<h3>Journals:</h3>
    <ol start="1">
+      <li>Prajapati, U., <u>Chatterjee,  B.C.</u>, Banerjee, A., “FractionalLB: Controller Load Balancing using Fractional Switch Migration in Software-Defined Networks,” <em>IEEE Networking Letters</em>, 2024 [to appear].</li>
       <li>Takeda, K., Sato, T., <u>Chatterjee,  B.C.</u>, and Oki, E., “Lightpath Provisioning Model Considering Crosstalk-Derived Fragmentation in Spectrally-Spatially Elastic Optical Networks,” <em>Computer Network</em>, 2023, IF: 5.6 [to appear]. </li>
      <li> Ahmed, I., Rai, R., Maity, M., Oki, E., and <u>Chatterjee,  B.C.</u>, “AnalyticalBP: Analytical Model for Blocking Probabilities Considering Crosstalk-Avoided Approach in Spectrally-Spatially Elastic Optical Networks,'' <em>IEEE Transactions on Communications</em>, 2023, IF: 8.3 [to appear].</li>
      <li>Kawabata, A., <u>Chatterjee, B.C.</u>, and Oki, E., “CMND: Consistent-aware Multi-Server Network Design Model for Delay-Sensitive Applications,” <em>IEICE Transactions on Communications</em>, 2023, IF: 0.7 [to appear].</li>
