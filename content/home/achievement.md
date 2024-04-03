@@ -18,6 +18,7 @@ weight = 50
 <div align="justify">
 <ol>
 <ul>
+<li>Conference Travel Grant (CTG) funded by IEEE ComSoc to attend INFOCOM 2024.</li>
 <li>IETE – Brig M L Anand Award FY 2021.</li>
 <li>INSA Visiting Scientist Award FY 2021-2022.</li>
 <li>Selected as Fellow of the Institution of Electronics and Telecommunications Engineers (IETE), India, in Mar 2021.</li>
