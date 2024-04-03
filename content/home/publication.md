@@ -44,10 +44,12 @@ publication_type = "-1"
  <div align="justify"> 
 	<h3>Journals:</h3>
    <ol start="1">
-          <li> Ahmed, I., Oki, E., and <u>Chatterjee,  B.C.</u>, “Modeling and Analysis of Crosstalk-Avoided and Crosstalk-Aware Approaches in Spectrally-Spatially Elastic Optical Networks,'' <em>Computer Network</em>, 2024, IF: 5.6 [to appear]
+      <li>Prajapati, U., <u>Chatterjee,  B.C.</u>, Banerjee, A., “GLBMF: Greedy-based Load Balancing in SDN by Reducing Switch Migrations and Prioritizing Mice Flow Traffic,” <em>Wireless Personal Communications</em>, 2024, IF: 2.2  [to appear].</li>
+      <li>Kawabata, A., <u>Chatterjee, B.C.</u>, and Oki, E., “DSND: Delay-Sensitive Network Design Scheme for Multi-Service Slice Networks,” <em>IEEE Networking Letters</em>, 2024 [to appear].</li>
+      <li> Ahmed, I., Oki, E., and <u>Chatterjee,  B.C.</u>, “Modeling and Analysis of Crosstalk-Avoided and Crosstalk-Aware Approaches in Spectrally-Spatially Elastic Optical Networks,'' <em>Computer Network</em>, 2024, IF: 5.6 [to appear]
       <li>Prajapati, U., <u>Chatterjee,  B.C.</u>, Banerjee, A., “FractionalLB: Controller Load Balancing using Fractional Switch Migration in Software-Defined Networks,” <em>IEEE Networking Letters</em>, 2024 [to appear].</li>
       <li>Takeda, K., Sato, T., <u>Chatterjee,  B.C.</u>, and Oki, E., “Lightpath Provisioning Model Considering Crosstalk-Derived Fragmentation in Spectrally-Spatially Elastic Optical Networks,” <em>Computer Network</em>, 2023, IF: 5.6 [to appear]. </li>
-     <li> Ahmed, I., Rai, R., Maity, M., Oki, E., and <u>Chatterjee,  B.C.</u>, “AnalyticalBP: Analytical Model for Blocking Probabilities Considering Crosstalk-Avoided Approach in Spectrally-Spatially Elastic Optical Networks,'' <em>IEEE Transactions on Communications</em>, 2023, IF: 8.3 [to appear].</li>
+     <li> Ahmed, I., Rai, R., Maity, M., Oki, E., and <u>Chatterjee,  B.C.</u>, “AnalyticalBP: Analytical Model for Blocking Probabilities Considering Crosstalk-Avoided Approach in Spectrally-Spatially Elastic Optical Networks,'' <em>IEEE Transactions on Communications</em>, vol. 72, no. 3, pp. 1487 - 1501, 2024, IF: 8.3.</li>
      <li>Kawabata, A., <u>Chatterjee, B.C.</u>, and Oki, E., “CMND: Consistent-aware Multi-Server Network Design Model for Delay-Sensitive Applications,” <em>IEICE Transactions on Communications</em>, 2023, IF: 0.7 [to appear].</li>
      <li>Prajapati, U., <u>Chatterjee,  B.C.</u>, Banerjee, A., “OptiGSM: Greedy-Based Load Balancing with Minimum Switch Migrations in Software-Defined Networks,” <em>IEEE Transactions on Network and Service Management</em>, 2023, IF: 5.3 [to appear].</li>
     <li>Kawabata, A., <u>Chatterjee, B.C.</u>, and Oki, E., “MHND: Multi-Homing Network Design Model for Delay Sensitive Applications,” <em>IEICE Transactions on Communications</em>, 2023, IF: 0.7 [to appear].</li>
