@@ -44,6 +44,7 @@ publication_type = "-1"
  <div align="justify"> 
 	<h3>Journals:</h3>
    <ol start="1">
+     <li>Kumar, V., Halder, J., Oki, E., and <u>Chatterjee, B.C.</u>, “VNEavXT: Offline Virtual Network Embedding Model Considering Crosstalk-Avoided Approach in Spectrally-Spatially Elastic Optical Networkss,” <em>IEEE Transactions on Network Science and Engineering</em>, 2024, IF: 6.7 [to appear].</li>
            <li>Imanaka, S., Kawabata, A., <u>Chatterjee,  B.C.</u>, and Oki, E., “Polynomial-Time Server Allocation Algorithm in Delay-Sensitive Internet-of-Things Monitoring Services,” <em>Computer Network</em>, 2024, IF: 5.6 [to appear].</li>
       <li>Prajapati, U., <u>Chatterjee,  B.C.</u>, and Banerjee, A., “GLBMF: Greedy-based Load Balancing in SDN by Reducing Switch Migrations and Prioritizing Mice Flow Traffic,” <em>Wireless Personal Communications</em>, 2024, IF: 2.2  [to appear].</li>
       <li>Kawabata, A., <u>Chatterjee, B.C.</u>, and Oki, E., “DSND: Delay-Sensitive Network Design Scheme for Multi-Service Slice Networks,” <em>IEEE Networking Letters</em>, 2024 [to appear].</li>
