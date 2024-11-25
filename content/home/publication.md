@@ -106,6 +106,8 @@ publication_type = "-1"
 	<div align="justify"> 
 	<h3>Conferences:</h3>
 	<ol start="1">
+     <li>Prajapati, U., <u>Chatterjee, B.C.</u>, Banerjee, A., “DSFSM: Delay-Sensitive Fractional Switch Migration For Multi-Controller Software-Defined Networks,'' <em>Proc. of IEEE ICNC</em>, 17-20 Feb, Honolulu, Hawaii, USA.</li>
+        <li> Ahmed, I., Oki, E., and <u>Chatterjee,  B.C.</u>, “Modeling Blocking Performance with Fragmentation in Spectrally-Spatially Elastic Optical Networks,'' <em>Proc. of IEEE ICNC</em>, 17-20 Feb, Honolulu, Hawaii, USA.</li>
         <li>Kumar, V., Oki, E., and <u>Chatterjee, B.C.</u> “Virtual Optical Network Embedding in Spectrally-Spatially Elastic Optical Networks Considering Dynamic Scenarios,” <em>20th International Conference on IP + Optical Network (iPOP2022)</em>, 27-28 Jun 2024, Hokkaido, Japan.</li>
     <li> Ahmed, I., Oki, E., and <u>Chatterjee,  B.C.</u>, “Blocking Probability Analysis Modeling in Spectrally-Spatially Elastic Optical Networks: A Crosstalk-Avoided Perspective,'' <em>Proc. of 24th ICTON</em>, July 14-18 2024, Bari, Italy.</li>
         <li> Ahmed, I., Rai, R., Oki, E., and <u>Chatterjee,  B.C.</u>, “AnalyticalDF: Analytical Model for Blocking Probabilities Considering Spectrum Defragmentation in Spectrally-Spatially Elastic Optical Networks,'' <em>Proc. of IEEE INFOCOM</em>, 20–23 May 2024, Vancouver, Canada.</li>
